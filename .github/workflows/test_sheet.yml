@@ -6,7 +6,7 @@ on:
     - cron: "*/5 * * * *"   # runs every 5 minutes
 
 permissions:
-  contents: write            # ✅ REQUIRED to allow pushing changes
+  contents: write            # ✅ required to allow pushing changes
 
 jobs:
   run:
@@ -16,7 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # ✅ this token now has write permission
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0     # ✅ fetch full history (required for git pull)
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -35,9 +36,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ -f "sheet_backup.json" ]; then
+            git pull --rebase origin main   # ✅ prevents non-fast-forward error
             git add sheet_backup.json
             git commit -m "🔄 Auto-update sheet_backup.json from Google Sheet" || echo "No changes to commit"
-            git push
+            git push origin main
           else
             echo "⚠️ sheet_backup.json not found! Listing files for debug:"
             ls -la
