@@ -1,5 +1,5 @@
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import json
 import io
 import requests
@@ -16,14 +16,20 @@ try:
     print("✅ Loaded Google Sheet data:\n", df)
 
     data = df.to_dict(orient="records")
+
+    utc_time = datetime.now(timezone.utc)
+    local_time = utc_time + timedelta(hours=5)  # Pakistan Standard Time (UTC+5)
+
     result = {
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
+        "last_updated": utc_time.strftime("%Y-%m-%d %H:%M:%S UTC"),
+        "local_time": local_time.strftime("%Y-%m-%d %I:%M:%S %p PKT"),
         "data": data
     }
 
     with open("sheet_backup.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
-    print("💾 Saved as sheet_backup.json")
+
+    print("💾 Saved as sheet_backup.json with local time included")
 
 except Exception as e:
     print("❌ Error:", e)
