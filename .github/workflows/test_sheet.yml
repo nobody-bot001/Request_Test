@@ -1,7 +1,7 @@
 name: Test Google Sheet Reader
 
 on:
-  workflow_dispatch:    # manual trigger
+  workflow_dispatch:    # allows manual run
   schedule:
     - cron: "*/5 * * * *"   # runs every 5 minutes
 
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # gives permission to push changes
+          token: ${{ secrets.GITHUB_TOKEN }}   # allows push access
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           if [ -f "sheet_backup.json" ]; then
             git add sheet_backup.json
             git commit -m "🔄 Auto-update sheet_backup.json from Google Sheet" || echo "No changes to commit"
@@ -36,3 +37,4 @@ jobs:
           else
             echo "⚠️ sheet_backup.json not found! Listing files for debug:"
             ls -la
+          fi
