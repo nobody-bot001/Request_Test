@@ -1,13 +1,14 @@
 name: Test Google Sheet Reader
 
 on:
-  workflow_dispatch:    # manual run
+  workflow_dispatch:    # allows manual run
   schedule:
-    - cron: "0 6 * * *"   # runs every day at 6 AM UTC
+    - cron: "*/5 * * * *"   # runs every 5 minutes
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -18,7 +19,8 @@ jobs:
           python-version: 3.12
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install pandas requests
 
       - name: Run test script
         run: python test_sheet_reader.py
