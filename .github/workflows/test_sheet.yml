@@ -1,18 +1,22 @@
 name: Test Google Sheet Reader
 
 on:
-  workflow_dispatch:    # allows manual run
+  workflow_dispatch:        # allows manual run
   schedule:
     - cron: "*/5 * * * *"   # runs every 5 minutes
+
+permissions:
+  contents: write            # ✅ REQUIRED to allow pushing changes
 
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # allows push access
+          token: ${{ secrets.GITHUB_TOKEN }}   # ✅ this token now has write permission
 
       - name: Set up Python
         uses: actions/setup-python@v4
