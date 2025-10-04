@@ -1,17 +1,18 @@
 name: Test Google Sheet Reader
 
 on:
-  workflow_dispatch:    # allows manual run
+  workflow_dispatch:    # manual trigger
   schedule:
     - cron: "*/5 * * * *"   # runs every 5 minutes
 
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # gives permission to push changes
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,8 +20,15 @@ jobs:
           python-version: 3.12
 
       - name: Install dependencies
-        run: |
-          pip install pandas requests
+        run: pip install -r requirements.txt
 
       - name: Run test script
         run: python test_sheet_reader.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Auto-update JSON file from Google Sheet" || echo "No changes to commit"
+          git push
