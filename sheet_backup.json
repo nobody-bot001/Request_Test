@@ -1,0 +1,20 @@
+{
+    "last_updated": "2025-10-04 18:51:49 UTC",
+    "data": [
+        {
+            "Name": "Ali",
+            "Age": 22,
+            "City": "Lahore"
+        },
+        {
+            "Name": "Sara",
+            "Age": 25,
+            "City": "Karachi"
+        },
+        {
+            "Name": "Usman",
+            "Age": 20,
+            "City": "Islamabad"
+        }
+    ]
+}
