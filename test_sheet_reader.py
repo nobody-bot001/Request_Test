@@ -1,5 +1,5 @@
 import pandas as pd
-import json, io, requests, traceback
+import json, io, requests, traceback, subprocess
 from datetime import datetime, timedelta, timezone
 from openpyxl import Workbook
 from openpyxl.utils import get_column_letter
@@ -11,25 +11,7 @@ def safe_serialize(obj):
     if hasattr(obj, '__str__'): return str(obj)
     return None
 
-def extract_color(color_obj):
-    if not color_obj: return None
-    if isinstance(color_obj, str): return color_obj
-    if hasattr(color_obj, 'rgb') and color_obj.rgb: return str(color_obj.rgb)
-    return str(color_obj)
-
-def argb_to_rgba(argb_color):
-    if not argb_color or not isinstance(argb_color, str): return argb_color
-    clean_color = ''.join(c for c in argb_color if c in '0123456789ABCDEFabcdef')
-    if len(clean_color) == 8:
-        if clean_color.startswith(('FF', 'ff')):
-            return f"#{clean_color[2:]}".upper()
-        else:
-            return f"#{clean_color[2:]}{clean_color[:2]}".upper()
-    elif len(clean_color) == 6:
-        return f"#{clean_color}".upper()
-    return argb_color
-
-def get_cell_styles():  # no real styles from CSV
+def get_cell_styles():
     return {
         "font": {"name": None, "size": None, "bold": None, "italic": None, "color": None},
         "fill": {"fgColor": None},
@@ -54,7 +36,6 @@ try:
     df = pd.read_csv(io.StringIO(r.text))
     print("✅ Loaded Google Sheet data")
 
-    # Create a temporary workbook (in memory) to reuse your previous logic
     wb = Workbook()
     ws = wb.active
     ws.title = "Sheet1"
@@ -160,8 +141,34 @@ except Exception as e:
 
 with open("status.json", "w", encoding="utf-8") as f:
     json.dump(status, f, indent=2, ensure_ascii=False)
-
 print("💾 Saved status.json")
+
+# ---------------------------------------------------------------------
+# STEP 4: PUSH TO GITHUB
+# ---------------------------------------------------------------------
+try:
+    print("🚀 Pushing JSON files to GitHub...")
+
+    subprocess.run(["git", "config", "--global", "user.name", "github-actions[bot]"], check=True)
+    subprocess.run(["git", "config", "--global", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
+
+    subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=False)
+    subprocess.run(["git", "add", "timetable_detailed.json", "timetable_simplified_1.json", "status.json"], check=True)
+    subprocess.run(["git", "commit", "-m", "🔄 Auto-update timetable JSONs from Google Sheet"], check=False)
+    subprocess.run(["git", "push", "origin", "main"], check=False)
+
+    print("✅ Successfully pushed all JSON files to GitHub.")
+
+except Exception as e:
+    print("❌ GitHub push failed:", e)
+    error_info = {
+        "status": "error",
+        "message": "GitHub push failed",
+        "error_detail": str(e),
+        "traceback": traceback.format_exc()
+    }
+    with open("status.json", "w", encoding="utf-8") as f:
+        json.dump(error_info, f, ensure_ascii=False, indent=4)
 
 
 # import pandas as pd
