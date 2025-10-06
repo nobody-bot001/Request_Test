@@ -39,11 +39,11 @@ jobs:
       - name: Run test script
         run: python test_sheet_reader.py
 
-      - name: Commit and push updated JSON
+      - name: Commit and push JSON updates
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+      
           if [ -f "sheet_backup.json" ]; then
             echo "🔄 Syncing and pushing changes..."
             git pull --rebase origin main || echo "⚠️ Pull failed — continuing anyway"
@@ -53,3 +53,5 @@ jobs:
           else
             echo "⚠️ sheet_backup.json not found! Listing files for debug:"
             ls -la
+          fi
+
