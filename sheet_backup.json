@@ -1,6 +1,6 @@
 {
-    "last_updated": "2025-10-06 18:01:47 UTC",
-    "local_time": "2025-10-06 11:01:47 PM PKT",
+    "last_updated": "2025-10-06 18:05:24 UTC",
+    "local_time": "2025-10-06 11:05:24 PM PKT",
     "data": [
         {
             "Name": "Ali",
@@ -16,6 +16,11 @@
             "Name": "Usman",
             "Age": 20,
             "City": "Islamabad"
+        },
+        {
+            "Name": "Hamza",
+            "Age": 18,
+            "City": "Rawalpindi"
         }
     ]
 }
