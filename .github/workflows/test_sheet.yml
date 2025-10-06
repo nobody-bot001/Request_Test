@@ -31,7 +31,10 @@ jobs:
           python-version: 3.12
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          echo "📦 Installing required Python libraries..."
+          pip install -r requirements.txt || true
+          pip install pandas requests openpyxl
 
       - name: Run test script
         run: python test_sheet_reader.py
@@ -50,4 +53,3 @@ jobs:
           else
             echo "⚠️ sheet_backup.json not found! Listing files for debug:"
             ls -la
-          fi
