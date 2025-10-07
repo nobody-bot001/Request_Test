@@ -1016,7 +1016,7 @@
         },
         {
           "time_slot": "MS (DS)",
-          "subject": "Adv Digital Forensics (CY) Cancelled",
+          "subject": "Adv Digital Forensics (CY)",
           "location": "Cell AK5",
           "row": 5,
           "column": 37
@@ -1939,7 +1939,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Ideology of Pak (DS-A) 02:30-04:15 ReSch",
+          "subject": NaN,
           "location": "Cell V9",
           "row": 9,
           "column": 22
@@ -2710,7 +2710,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "IICT Lab (CS-G) ReSch",
+          "subject": NaN,
           "location": "Cell V12",
           "row": 12,
           "column": 22
@@ -2967,7 +2967,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "SES",
+          "subject": NaN,
           "location": "Cell V13",
           "row": 13,
           "column": 22
@@ -3002,7 +3002,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "SES",
+          "subject": NaN,
           "location": "Cell AA13",
           "row": 13,
           "column": 27
@@ -3224,7 +3224,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Reserved",
+          "subject": NaN,
           "location": "Cell V14",
           "row": 14,
           "column": 22
@@ -4252,7 +4252,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "COAL Lab (CS-D) ReSch",
+          "subject": NaN,
           "location": "Cell V18",
           "row": 18,
           "column": 22
@@ -7044,7 +7044,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "LA (CS-F) ReSch",
+          "subject": NaN,
           "location": "Cell Q29",
           "row": 29,
           "column": 17
@@ -8621,7 +8621,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Reserved by AIDS",
+          "subject": NaN,
           "location": "Cell V35",
           "row": 35,
           "column": 22
@@ -8656,7 +8656,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Reserved by AIDS",
+          "subject": NaN,
           "location": "Cell AA35",
           "row": 35,
           "column": 27
@@ -8878,7 +8878,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Takhleeq",
+          "subject": NaN,
           "location": "Cell V36",
           "row": 36,
           "column": 22
@@ -8913,7 +8913,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Takhleeq",
+          "subject": NaN,
           "location": "Cell AA36",
           "row": 36,
           "column": 27
@@ -11705,7 +11705,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Algo (CY, 22) Cancelled",
+          "subject": "Algo (CY, 22) ",
           "location": "Cell V47",
           "row": 47,
           "column": 22
@@ -12663,7 +12663,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Info Assur (CY-D) Cancelled",
+          "subject": "Info Assur (CY-D) ",
           "location": "Cell L51",
           "row": 51,
           "column": 12
@@ -12698,7 +12698,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Info Assur (CY-C) Cancelled",
+          "subject": "Info Assur (CY-C) ",
           "location": "Cell Q51",
           "row": 51,
           "column": 17
@@ -13691,7 +13691,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Func Eng Lab (SE-B1) ReSch",
+          "subject": NaN,
           "location": "Cell L55",
           "row": 55,
           "column": 12
@@ -16518,7 +16518,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Net Lab (CS-A) Cancelled",
+          "subject": "Comp Net Lab (CS-A) ",
           "location": "Cell L66",
           "row": 66,
           "column": 12
