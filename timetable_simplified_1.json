@@ -12219,7 +12219,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "FDSS",
+          "subject": NaN,
           "location": "Cell V49",
           "row": 49,
           "column": 22
@@ -12254,7 +12254,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "FDSS",
+          "subject": NaN,
           "location": "Cell AA49",
           "row": 49,
           "column": 27
