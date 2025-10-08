@@ -14976,7 +14976,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": NaN,
+          "subject": "IICT Lab (SE-A) ReSch",
           "location": "Cell L60",
           "row": 60,
           "column": 12
@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "IICT Lab (SE-B) ReSch",
           "location": "Cell B69",
           "row": 69,
           "column": 2
