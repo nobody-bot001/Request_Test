@@ -13761,7 +13761,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Reserved for FOES",
           "location": "Cell V55",
           "row": 55,
           "column": 22
@@ -13796,7 +13796,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Reserved for FOES",
           "location": "Cell AA55",
           "row": 55,
           "column": 27
