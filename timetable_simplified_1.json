@@ -7967,7 +7967,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "Comp Net Lab (DS-D) ReSch",
           "location": "Cell B33",
           "row": 33,
           "column": 2
