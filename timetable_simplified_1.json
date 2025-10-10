@@ -2453,7 +2453,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PF Tutorial (CS-H)",
+          "subject": NaN,
           "location": "Cell V11",
           "row": 11,
           "column": 22
@@ -3224,7 +3224,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PF Tutorial (CS-J)",
+          "subject": NaN,
           "location": "Cell V14",
           "row": 14,
           "column": 22
