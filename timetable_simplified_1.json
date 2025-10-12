@@ -4404,7 +4404,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Intro to SE (SE-C)",
+          "subject": NaN,
           "location": "Cell G19",
           "row": 19,
           "column": 7
@@ -4439,7 +4439,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Dr. Sara Aziz",
+          "subject": "Intro to SE (SE-C)",
           "location": "Cell L19",
           "row": 19,
           "column": 12
