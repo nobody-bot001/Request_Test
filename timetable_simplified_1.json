@@ -6787,7 +6787,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "Reserved for FCSS",
           "location": "Cell Q28",
           "row": 28,
           "column": 17
