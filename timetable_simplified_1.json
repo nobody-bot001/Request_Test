@@ -1939,7 +1939,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Calculus (CS-H) ReSch",
+          "subject": NaN,
           "location": "Cell V9",
           "row": 9,
           "column": 22
@@ -2710,7 +2710,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Calculus (CS-A) ReSch",
+          "subject": NaN,
           "location": "Cell V12",
           "row": 12,
           "column": 22
@@ -3154,7 +3154,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Retake Exams Sessional-1",
+          "subject": NaN,
           "location": "Cell L14",
           "row": 14,
           "column": 12
@@ -3224,7 +3224,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Retake Exams Sessional-1",
+          "subject": NaN,
           "location": "Cell V14",
           "row": 14,
           "column": 22
@@ -7967,7 +7967,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Comp Net Lab (DS-D) ReSch",
+          "subject": NaN,
           "location": "Cell B33",
           "row": 33,
           "column": 2
@@ -8294,7 +8294,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Net (CS-B) ReSch",
+          "subject": NaN,
           "location": "Cell L34",
           "row": 34,
           "column": 12
@@ -8551,7 +8551,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Algo (CS-C) cancelled",
+          "subject": "Algo (CS-C) ",
           "location": "Cell L35",
           "row": 35,
           "column": 12
@@ -8843,7 +8843,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Algo (CS-D) cancelled",
+          "subject": "Algo (CS-D) ",
           "location": "Cell Q36",
           "row": 36,
           "column": 17
@@ -13761,7 +13761,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Reserved for FOES",
+          "subject": NaN,
           "location": "Cell V55",
           "row": 55,
           "column": 22
@@ -13796,7 +13796,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Reserved for FOES",
+          "subject": NaN,
           "location": "Cell AA55",
           "row": 55,
           "column": 27
@@ -14976,7 +14976,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "IICT Lab (SE-A) ReSch",
+          "subject": NaN,
           "location": "Cell L60",
           "row": 60,
           "column": 12
@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "IICT Lab (SE-B) ReSch",
+          "subject": NaN,
           "location": "Cell B69",
           "row": 69,
           "column": 2
