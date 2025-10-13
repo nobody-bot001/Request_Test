@@ -1974,7 +1974,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Intro to SE (SE-A) ",
+          "subject": NaN,
           "location": "Cell AA9",
           "row": 9,
           "column": 27
@@ -3773,7 +3773,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Intro to SE (SE-A) ",
           "location": "Cell AA16",
           "row": 16,
           "column": 27
@@ -6238,7 +6238,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Civics (CS-B) 11:30-01:15 Cancelled and Reserved",
+          "subject": "Civics (CS-B) 11:30-01:15 ",
           "location": "Cell L26",
           "row": 26,
           "column": 12
