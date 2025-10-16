@@ -1939,7 +1939,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Ideology of Pak (CS-J) 02:30-04:15 ReSch",
           "location": "Cell V9",
           "row": 9,
           "column": 22
@@ -3738,7 +3738,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Intro to SE (SE-A) ",
           "location": "Cell V16",
           "row": 16,
           "column": 22
@@ -3773,7 +3773,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Intro to SE (SE-A) ",
+          "subject": "Intro to SE (SE-B)",
           "location": "Cell AA16",
           "row": 16,
           "column": 27
