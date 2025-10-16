@@ -1724,7 +1724,7 @@
         },
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell AB8",
           "row": 8,
           "column": 28
@@ -2168,7 +2168,7 @@
         },
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "Rerserved",
           "location": "Cell R10",
           "row": 10,
           "column": 18
