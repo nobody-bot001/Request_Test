@@ -8294,7 +8294,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": NaN,
+          "subject": "Comp Net (CS-B) ReSch",
           "location": "Cell L34",
           "row": 34,
           "column": 12
@@ -18387,7 +18387,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng Lab (CS-E2)",
+          "subject": "Func Eng Lab (CS-E2) Cancelled",
           "location": "Cell V73",
           "row": 73,
           "column": 22
