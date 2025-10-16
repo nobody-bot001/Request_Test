@@ -4252,7 +4252,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "AP (DS-A) ReSch",
           "location": "Cell V18",
           "row": 18,
           "column": 22
