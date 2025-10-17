@@ -6787,7 +6787,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Reserved for FCSS",
+          "subject": NaN,
           "location": "Cell Q28",
           "row": 28,
           "column": 17
@@ -13691,7 +13691,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": NaN,
+          "subject": "Psychology (AI-B) ReSch",
           "location": "Cell L55",
           "row": 55,
           "column": 12
@@ -13726,7 +13726,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "Psychology (AI-A) ReSch",
           "location": "Cell Q55",
           "row": 55,
           "column": 17
