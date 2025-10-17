@@ -16191,7 +16191,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "OS Lab (CY-A&B) Sessional Exams on October 20, 2025",
+          "subject": NaN,
           "location": "Cell B65",
           "row": 65,
           "column": 2
@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "OS Lab (CY-A&B) Sessional Exams on October 20, 2025",
+          "subject": NaN,
           "location": "Cell B69",
           "row": 69,
           "column": 2
