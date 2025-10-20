@@ -105843,7 +105843,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
+              "subject": "Intro to DS Lab (DS-A)",
               "time_slot": NaN,
               "cell_reference": "B61",
               "row": 61,
@@ -106769,7 +106769,7 @@
         "row": 61,
         "schedule": [
           {
-            "subject": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
+            "subject": "Intro to DS Lab (DS-A)",
             "time_slot": NaN,
             "cell_reference": "B61",
             "row": 61,
@@ -188881,7 +188881,7 @@
           "row": 61,
           "column": 2,
           "column_letter": "B",
-          "value": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
+          "value": "Intro to DS Lab (DS-A)",
           "time_slot": NaN,
           "room": "C-Margala 1",
           "styles": {
