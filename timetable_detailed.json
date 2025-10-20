@@ -84303,7 +84303,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "App ML (CY-A)",
+              "subject": "App ML (CY-A) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B49",
               "row": 49,
@@ -85229,7 +85229,7 @@
         "row": 49,
         "schedule": [
           {
-            "subject": "App ML (CY-A)",
+            "subject": "App ML (CY-A) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B49",
             "row": 49,
@@ -177313,7 +177313,7 @@
           "row": 49,
           "column": 2,
           "column_letter": "B",
-          "value": "App ML (CY-A)",
+          "value": "App ML (CY-A) Cancelled",
           "time_slot": NaN,
           "room": "D-501",
           "styles": {
