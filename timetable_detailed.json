@@ -121998,7 +121998,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Func Eng Lab (CS-F1)",
+              "subject": "Func Eng Lab (CS-F1) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B70",
               "row": 70,
@@ -122924,7 +122924,7 @@
         "row": 70,
         "schedule": [
           {
-            "subject": "Func Eng Lab (CS-F1)",
+            "subject": "Func Eng Lab (CS-F1) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B70",
             "row": 70,
@@ -197557,7 +197557,7 @@
           "row": 70,
           "column": 2,
           "column_letter": "B",
-          "value": "Func Eng Lab (CS-F1)",
+          "value": "Func Eng Lab (CS-F1) Cancelled",
           "time_slot": NaN,
           "room": "A-Mehran 2",
           "styles": {
