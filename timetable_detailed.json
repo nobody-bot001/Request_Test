@@ -21726,7 +21726,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "AP (CS-Z) International Students (B-232)",
+              "subject": "AP (CS-Z) International Students",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G14",
               "row": 14,
@@ -22524,7 +22524,7 @@
             }
           },
           {
-            "subject": "AP (CS-Z) International Students (B-232)",
+            "subject": "AP (CS-Z) International Students",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G14",
             "row": 14,
@@ -143703,7 +143703,7 @@
           "row": 14,
           "column": 7,
           "column_letter": "G",
-          "value": "AP (CS-Z) International Students (B-232)",
+          "value": "AP (CS-Z) International Students",
           "time_slot": "BS CS (2024)",
           "room": "C-311",
           "styles": {
