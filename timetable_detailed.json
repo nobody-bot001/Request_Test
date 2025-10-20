@@ -59551,7 +59551,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Algo (CS-C) ",
+              "subject": "Algo (CS-C)  Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L35",
               "row": 35,
@@ -60339,7 +60339,7 @@
             }
           },
           {
-            "subject": "Algo (CS-C) ",
+            "subject": "Algo (CS-C)  Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L35",
             "row": 35,
@@ -61450,7 +61450,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Algo (CS-D) ",
+              "subject": "Algo (CS-D)  Cancelled",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q36",
               "row": 36,
@@ -62254,7 +62254,7 @@
             }
           },
           {
-            "subject": "Algo (CS-D) ",
+            "subject": "Algo (CS-D)  Cancelled",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q36",
             "row": 36,
@@ -105843,7 +105843,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Intro to DS Lab (DS-A)",
+              "subject": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
               "time_slot": NaN,
               "cell_reference": "B61",
               "row": 61,
@@ -106769,7 +106769,7 @@
         "row": 61,
         "schedule": [
           {
-            "subject": "Intro to DS Lab (DS-A)",
+            "subject": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
             "time_slot": NaN,
             "cell_reference": "B61",
             "row": 61,
@@ -164077,7 +164077,7 @@
           "row": 35,
           "column": 12,
           "column_letter": "L",
-          "value": "Algo (CS-C) ",
+          "value": "Algo (CS-C)  Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "D-315",
           "styles": {
@@ -165171,7 +165171,7 @@
           "row": 36,
           "column": 17,
           "column_letter": "Q",
-          "value": "Algo (CS-D) ",
+          "value": "Algo (CS-D)  Cancelled",
           "time_slot": "BS AI (2024)",
           "room": "D-316",
           "styles": {
@@ -188881,7 +188881,7 @@
           "row": 61,
           "column": 2,
           "column_letter": "B",
-          "value": "Intro to DS Lab (DS-A)",
+          "value": "Intro to DS Lab (DS-A) in Rawal Lab-III for Today i.e. October 20, 2025",
           "time_slot": NaN,
           "room": "C-Margala 1",
           "styles": {
