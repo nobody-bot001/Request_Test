@@ -32626,7 +32626,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Fund of SPM (SE-E)",
+              "subject": "Fund of SPM (SE-E) Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L20",
               "row": 20,
@@ -33414,7 +33414,7 @@
             }
           },
           {
-            "subject": "Fund of SPM (SE-E)",
+            "subject": "Fund of SPM (SE-E) Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L20",
             "row": 20,
@@ -149617,7 +149617,7 @@
           "row": 20,
           "column": 12,
           "column_letter": "L",
-          "value": "Fund of SPM (SE-E)",
+          "value": "Fund of SPM (SE-E) Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "C-406",
           "styles": {
