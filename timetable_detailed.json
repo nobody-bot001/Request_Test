@@ -38115,7 +38115,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Fund of SPM (SE-B)",
+              "subject": "Fund of SPM (SE-B) D-304",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q23",
               "row": 23,
@@ -38919,7 +38919,7 @@
             }
           },
           {
-            "subject": "Fund of SPM (SE-B)",
+            "subject": "Fund of SPM (SE-B) D-304",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q23",
             "row": 23,
@@ -47090,7 +47090,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q28",
               "row": 28,
@@ -47894,7 +47894,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q28",
             "row": 28,
@@ -152639,7 +152639,7 @@
           "row": 23,
           "column": 17,
           "column_letter": "Q",
-          "value": "Fund of SPM (SE-B)",
+          "value": "Fund of SPM (SE-B) D-304",
           "time_slot": "BS AI (2024)",
           "room": "C-409",
           "styles": {
@@ -157459,7 +157459,7 @@
           "row": 28,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS AI (2024)",
           "room": "D-304",
           "styles": {
