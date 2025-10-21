@@ -113271,7 +113271,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": NaN,
               "cell_reference": "B65",
               "row": 65,
@@ -114201,7 +114201,7 @@
         "row": 65,
         "schedule": [
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": NaN,
             "cell_reference": "B65",
             "row": 65,
@@ -120467,7 +120467,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": NaN,
               "cell_reference": "B69",
               "row": 69,
@@ -121397,7 +121397,7 @@
         "row": 69,
         "schedule": [
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": NaN,
             "cell_reference": "B69",
             "row": 69,
@@ -193025,7 +193025,7 @@
           "row": 65,
           "column": 2,
           "column_letter": "B",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": NaN,
           "room": "Rawal 3 (B-232)",
           "styles": {
@@ -196881,7 +196881,7 @@
           "row": 69,
           "column": 2,
           "column_letter": "B",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": NaN,
           "room": "A-Mehran 1",
           "styles": {
