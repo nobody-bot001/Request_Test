@@ -9161,7 +9161,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Calculus (CS-C) Cancelled",
+              "subject": "Calculus (CS-C) ",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G7",
               "row": 7,
@@ -9959,7 +9959,7 @@
             }
           },
           {
-            "subject": "Calculus (CS-C) Cancelled",
+            "subject": "Calculus (CS-C) ",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G7",
             "row": 7,
@@ -136955,7 +136955,7 @@
           "row": 7,
           "column": 7,
           "column_letter": "G",
-          "value": "Calculus (CS-C) Cancelled",
+          "value": "Calculus (CS-C) ",
           "time_slot": "BS CS (2024)",
           "room": "C-303",
           "styles": {
