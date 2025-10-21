@@ -21852,7 +21852,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func Eng Lab (SE-A1) ReSch",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L14",
               "row": 14,
@@ -22692,7 +22692,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func Eng Lab (SE-A1) ReSch",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L14",
             "row": 14,
@@ -144121,7 +144121,7 @@
           "row": 14,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "Func Eng Lab (SE-A1) ReSch",
           "time_slot": "BS DS (2024)",
           "room": "C-311",
           "styles": {
