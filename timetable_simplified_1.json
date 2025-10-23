@@ -7967,7 +7967,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "Net Sec (CY-A) ReSch",
           "location": "Cell B33",
           "row": 33,
           "column": 2
@@ -8002,7 +8002,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": NaN,
+          "subject": "Net Sec (CY-B) ReSch",
           "location": "Cell G33",
           "row": 33,
           "column": 7

@@ -55703,7 +55703,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": NaN,
+              "subject": "Net Sec (CY-A) ReSch",
               "time_slot": NaN,
               "cell_reference": "B33",
               "row": 33,
@@ -55903,7 +55903,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": NaN,
+              "subject": "Net Sec (CY-B) ReSch",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G33",
               "row": 33,
@@ -56633,7 +56633,7 @@
         "row": 33,
         "schedule": [
           {
-            "subject": NaN,
+            "subject": "Net Sec (CY-A) ReSch",
             "time_slot": NaN,
             "cell_reference": "B33",
             "row": 33,
@@ -56753,7 +56753,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Net Sec (CY-B) ReSch",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G33",
             "row": 33,
@@ -162177,7 +162177,7 @@
           "row": 33,
           "column": 2,
           "column_letter": "B",
-          "value": NaN,
+          "value": "Net Sec (CY-A) ReSch",
           "time_slot": NaN,
           "room": "D-313",
           "styles": {
@@ -162307,7 +162307,7 @@
           "row": 33,
           "column": 7,
           "column_letter": "G",
-          "value": NaN,
+          "value": "Net Sec (CY-B) ReSch",
           "time_slot": "BS CS (2024)",
           "room": "D-313",
           "styles": {
