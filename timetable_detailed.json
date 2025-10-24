@@ -95819,7 +95819,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "DAV (DS-C) D-412 ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V55",
               "row": 55,
@@ -96691,7 +96691,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "DAV (DS-C) D-412 ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V55",
             "row": 55,
@@ -104606,7 +104606,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "DW&BI Lab (DS-C) ReSch",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L60",
               "row": 60,
@@ -105446,7 +105446,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "DW&BI Lab (DS-C) ReSch",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L60",
             "row": 60,
@@ -113271,7 +113271,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Reserved",
+              "subject": "Data St Lab (SE) (Sessional Exam)",
               "time_slot": NaN,
               "cell_reference": "B65",
               "row": 65,
@@ -114201,7 +114201,7 @@
         "row": 65,
         "schedule": [
           {
-            "subject": "Reserved",
+            "subject": "Data St Lab (SE) (Sessional Exam)",
             "time_slot": NaN,
             "cell_reference": "B65",
             "row": 65,
@@ -120467,7 +120467,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Reserved",
+              "subject": "Data St Lab (SE) (Sessional Exam)",
               "time_slot": NaN,
               "cell_reference": "B69",
               "row": 69,
@@ -121397,7 +121397,7 @@
         "row": 69,
         "schedule": [
           {
-            "subject": "Reserved",
+            "subject": "Data St Lab (SE) (Sessional Exam)",
             "time_slot": NaN,
             "cell_reference": "B69",
             "row": 69,
@@ -183905,7 +183905,7 @@
           "row": 55,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "DAV (DS-C) D-412 ReSch",
           "time_slot": "BS CY (2024)",
           "room": "C-110",
           "styles": {
@@ -188465,7 +188465,7 @@
           "row": 60,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "DW&BI Lab (DS-C) ReSch",
           "time_slot": "BS DS (2024)",
           "room": "D-IT Lab 4",
           "styles": {
@@ -193025,7 +193025,7 @@
           "row": 65,
           "column": 2,
           "column_letter": "B",
-          "value": "Reserved",
+          "value": "Data St Lab (SE) (Sessional Exam)",
           "time_slot": NaN,
           "room": "Rawal 3 (B-232)",
           "styles": {
@@ -196881,7 +196881,7 @@
           "row": 69,
           "column": 2,
           "column_letter": "B",
-          "value": "Reserved",
+          "value": "Data St Lab (SE) (Sessional Exam)",
           "time_slot": NaN,
           "room": "A-Mehran 1",
           "styles": {
