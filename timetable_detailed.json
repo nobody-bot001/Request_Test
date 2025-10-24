@@ -13195,7 +13195,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Calculus (CS-H) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA9",
               "row": 9,
@@ -14057,7 +14057,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Calculus (CS-H) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA9",
             "row": 9,
@@ -68834,7 +68834,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "LA (AI-C) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V40",
               "row": 40,
@@ -69706,7 +69706,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "LA (AI-C) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V40",
             "row": 40,
@@ -139691,7 +139691,7 @@
           "row": 9,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Calculus (CS-H) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "C-305",
           "styles": {
@@ -169445,7 +169445,7 @@
           "row": 40,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "LA (AI-C) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "D-404",
           "styles": {
