@@ -9649,7 +9649,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "DAV (DS-A)",
+          "subject": NaN,
           "location": "Cell V39",
           "row": 39,
           "column": 22
@@ -13691,7 +13691,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": NaN,
+          "subject": "DAV (DS-A) D-412 ReSch",
           "location": "Cell L55",
           "row": 55,
           "column": 12
@@ -13726,7 +13726,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "DAV (DS-B) D-412 ReSch",
           "location": "Cell Q55",
           "row": 55,
           "column": 17

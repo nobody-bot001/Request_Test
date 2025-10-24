@@ -67035,7 +67035,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "DAV (DS-A)",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V39",
               "row": 39,
@@ -67907,7 +67907,7 @@
             }
           },
           {
-            "subject": "DAV (DS-A)",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V39",
             "row": 39,
@@ -95611,7 +95611,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "DAV (DS-A) D-412 ReSch",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L55",
               "row": 55,
@@ -95715,7 +95715,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "DAV (DS-B) D-412 ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q55",
               "row": 55,
@@ -96451,7 +96451,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "DAV (DS-A) D-412 ReSch",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L55",
             "row": 55,
@@ -96571,7 +96571,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "DAV (DS-B) D-412 ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q55",
             "row": 55,
@@ -168481,7 +168481,7 @@
           "row": 39,
           "column": 22,
           "column_letter": "V",
-          "value": "DAV (DS-A)",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "D-403",
           "styles": {
@@ -183645,7 +183645,7 @@
           "row": 55,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "DAV (DS-A) D-412 ReSch",
           "time_slot": "BS DS (2024)",
           "room": "C-110",
           "styles": {
@@ -183775,7 +183775,7 @@
           "row": 55,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "DAV (DS-B) D-412 ReSch",
           "time_slot": "BS AI (2024)",
           "room": "C-110",
           "styles": {
