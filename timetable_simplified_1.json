@@ -5397,7 +5397,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Comp Net (CS, 22)",
+          "subject": "Comp Net (CS, 22) Cancelled",
           "location": "Cell B23",
           "row": 23,
           "column": 2
@@ -7079,7 +7079,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Info Sec (CS-A)",
+          "subject": "Info Sec (CS-A) Cancelled",
           "location": "Cell V29",
           "row": 29,
           "column": 22
@@ -7114,7 +7114,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "PPIT (CS-A)",
+          "subject": "PPIT (CS-A) Cancelled",
           "location": "Cell AA29",
           "row": 29,
           "column": 27
@@ -7196,7 +7196,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "DIP (CS-A, G-2)",
+          "subject": "DIP (CS-A, G-2) Cancelled",
           "location": "Cell B30",
           "row": 30,
           "column": 2
@@ -7231,7 +7231,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Gen AI (CS-C, G-1)",
+          "subject": "Gen AI (CS-C, G-1) Cancelled",
           "location": "Cell G30",
           "row": 30,
           "column": 7
@@ -7266,7 +7266,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Gen AI (CS-D, G-1)",
+          "subject": "Gen AI (CS-D, G-1) Cancelled",
           "location": "Cell L30",
           "row": 30,
           "column": 12
@@ -7301,7 +7301,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "User Exp (CS-A, G-2)",
+          "subject": "User Exp (CS-A, G-2) Cancelled",
           "location": "Cell Q30",
           "row": 30,
           "column": 17
@@ -7336,7 +7336,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PPIT (CS-B)",
+          "subject": "PPIT (CS-B) Cancelled",
           "location": "Cell V30",
           "row": 30,
           "column": 22
@@ -7371,7 +7371,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Info Sec (CS-B)",
+          "subject": "Info Sec (CS-B) Cancelled",
           "location": "Cell AA30",
           "row": 30,
           "column": 27
@@ -7453,7 +7453,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Tech Mgt (CS) ",
+          "subject": "Tech Mgt (CS)  Cancelled",
           "location": "Cell B31",
           "row": 31,
           "column": 2
@@ -7488,7 +7488,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "NLP (CS-A, G-2)",
+          "subject": "NLP (CS-A, G-2) Cancelled",
           "location": "Cell G31",
           "row": 31,
           "column": 7
@@ -7523,7 +7523,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Deep Learning (CS-A, G-2)",
+          "subject": "Deep Learning (CS-A, G-2) Cancelled",
           "location": "Cell L31",
           "row": 31,
           "column": 12
@@ -7558,7 +7558,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Deep Learning (CS-B, G-2)",
+          "subject": "Deep Learning (CS-B, G-2) Cancelled",
           "location": "Cell Q31",
           "row": 31,
           "column": 17
@@ -7593,7 +7593,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PPIT (CS-C)",
+          "subject": "PPIT (CS-C) Cancelled",
           "location": "Cell V31",
           "row": 31,
           "column": 22
@@ -7628,7 +7628,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Info Sec (CS-C)",
+          "subject": "Info Sec (CS-C) Cancelled",
           "location": "Cell AA31",
           "row": 31,
           "column": 27
@@ -7710,7 +7710,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Embedded Robo (CS-Robo)",
+          "subject": "Embedded Robo (CS-Robo) Cancelled",
           "location": "Cell B32",
           "row": 32,
           "column": 2
@@ -7745,7 +7745,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Web Prog (CS-A, G-2)",
+          "subject": "Web Prog (CS-A, G-2) Cancelled",
           "location": "Cell G32",
           "row": 32,
           "column": 7
@@ -7780,7 +7780,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "NLP (CS-B, G-2)",
+          "subject": "NLP (CS-B, G-2) Cancelled",
           "location": "Cell L32",
           "row": 32,
           "column": 12
@@ -7815,7 +7815,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Data Mining (CS-A, G-2)",
+          "subject": "Data Mining (CS-A, G-2) Cancelled",
           "location": "Cell Q32",
           "row": 32,
           "column": 17
@@ -7850,7 +7850,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PPIT (CS-D)",
+          "subject": "PPIT (CS-D) Cancelled",
           "location": "Cell V32",
           "row": 32,
           "column": 22
@@ -7885,7 +7885,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Info Sec (CS-D)",
+          "subject": "Info Sec (CS-D) Cancelled",
           "location": "Cell AA32",
           "row": 32,
           "column": 27
@@ -8037,7 +8037,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Blockchain (CS-A, G-2)",
+          "subject": "Blockchain (CS-A, G-2) Cancelled",
           "location": "Cell L33",
           "row": 33,
           "column": 12
@@ -8072,7 +8072,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Blockchain (CS-B, G-2) ",
+          "subject": "Blockchain (CS-B, G-2) Cancelled",
           "location": "Cell Q33",
           "row": 33,
           "column": 17
@@ -8107,7 +8107,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Info Sec (CS-E)",
+          "subject": "Info Sec (CS-E) Cancelled",
           "location": "Cell V33",
           "row": 33,
           "column": 22
@@ -8142,7 +8142,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "PPIT (CS-E)",
+          "subject": "PPIT (CS-E) Cancelled",
           "location": "Cell AA33",
           "row": 33,
           "column": 27
@@ -8329,7 +8329,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "DIP (CS-B, G-2)",
+          "subject": "DIP (CS-B, G-2) Cancelled",
           "location": "Cell Q34",
           "row": 34,
           "column": 17
@@ -10315,7 +10315,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Comp Vision (AI-D)",
+          "subject": "Comp Vision (AI-D) Cancelled",
           "location": "Cell G42",
           "row": 42,
           "column": 7
@@ -10350,7 +10350,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Vision (AI-A)",
+          "subject": "Comp Vision (AI-A) Cancelled",
           "location": "Cell L42",
           "row": 42,
           "column": 12
@@ -10385,7 +10385,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Agentic AI (AI-A)",
+          "subject": "Agentic AI (AI-A) Cancelled",
           "location": "Cell Q42",
           "row": 42,
           "column": 17
@@ -10420,7 +10420,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Cloud MLOps (AI-A)",
+          "subject": "Cloud MLOps (AI-A) Cancelled",
           "location": "Cell V42",
           "row": 42,
           "column": 22
@@ -10455,7 +10455,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "ML (AI, 22)",
+          "subject": "ML (AI, 22) Cancelled",
           "location": "Cell AA42",
           "row": 42,
           "column": 27
@@ -10572,7 +10572,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Org Behavior (AI-C)",
+          "subject": "Org Behavior (AI-C) Cancelled",
           "location": "Cell G43",
           "row": 43,
           "column": 7
@@ -10607,7 +10607,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Org Behavior (AI-B)",
+          "subject": "Org Behavior (AI-B) Cancelled",
           "location": "Cell L43",
           "row": 43,
           "column": 12
@@ -10642,7 +10642,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Cloud MLOps (AI-B)",
+          "subject": "Cloud MLOps (AI-B) Cancelled",
           "location": "Cell Q43",
           "row": 43,
           "column": 17
@@ -10677,7 +10677,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Agentic AI (AI-B)",
+          "subject": "Agentic AI (AI-B) Cancelled",
           "location": "Cell V43",
           "row": 43,
           "column": 22
@@ -10864,7 +10864,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "PPIT (DS-C)",
+          "subject": "PPIT (DS-C) Cancelled",
           "location": "Cell L44",
           "row": 44,
           "column": 12
@@ -10899,7 +10899,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Info Sec (DS-C)",
+          "subject": "Info Sec (DS-C) Cancelled",
           "location": "Cell Q44",
           "row": 44,
           "column": 17
@@ -10934,7 +10934,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Comp Net (DS-A)",
+          "subject": "Comp Net (DS-A) Cancelled",
           "location": "Cell V44",
           "row": 44,
           "column": 22
@@ -10969,7 +10969,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Deep Learning (DS-A)",
+          "subject": "Deep Learning (DS-A) Cancelled",
           "location": "Cell AA44",
           "row": 44,
           "column": 27
@@ -11121,7 +11121,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Info Sec (DS-D)",
+          "subject": "Info Sec (DS-D) Cancelled",
           "location": "Cell L45",
           "row": 45,
           "column": 12
@@ -11156,7 +11156,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "PPIT (DS-D)",
+          "subject": "PPIT (DS-D) Cancelled",
           "location": "Cell Q45",
           "row": 45,
           "column": 17
@@ -11191,7 +11191,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Deep Learning (DS-B)",
+          "subject": "Deep Learning (DS-B) Cancelled",
           "location": "Cell V45",
           "row": 45,
           "column": 22
@@ -11226,7 +11226,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Comp Net (DS-B)",
+          "subject": "Comp Net (DS-B) Cancelled",
           "location": "Cell AA45",
           "row": 45,
           "column": 27
@@ -13621,7 +13621,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "SMD (CS-A, G-3)",
+          "subject": "SMD (CS-A, G-3) Cancelled",
           "location": "Cell B55",
           "row": 55,
           "column": 2
@@ -13656,7 +13656,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "SMD (CS-B, G-3)",
+          "subject": "SMD (CS-B, G-3) Cancelled",
           "location": "Cell G55",
           "row": 55,
           "column": 7
@@ -15490,7 +15490,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Net Lab (DS-B)",
+          "subject": "Comp Net Lab (DS-B) Cancelled",
           "location": "Cell L62",
           "row": 62,
           "column": 12
