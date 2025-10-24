@@ -67035,7 +67035,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "DAV (DS-A)",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V39",
               "row": 39,
@@ -67907,7 +67907,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "DAV (DS-A)",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V39",
             "row": 39,
@@ -168481,7 +168481,7 @@
           "row": 39,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "DAV (DS-A)",
           "time_slot": "BS CY (2024)",
           "room": "D-403",
           "styles": {
