@@ -118668,7 +118668,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Comp Vision Lab (AI-B)",
+              "subject": "Comp Vision Lab (AI-B) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B68",
               "row": 68,
@@ -119598,7 +119598,7 @@
         "row": 68,
         "schedule": [
           {
-            "subject": "Comp Vision Lab (AI-B)",
+            "subject": "Comp Vision Lab (AI-B) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B68",
             "row": 68,
@@ -195917,7 +195917,7 @@
           "row": 68,
           "column": 2,
           "column_letter": "B",
-          "value": "Comp Vision Lab (AI-B)",
+          "value": "Comp Vision Lab (AI-B) Cancelled",
           "time_slot": NaN,
           "room": "A-Karakoram 3",
           "styles": {
