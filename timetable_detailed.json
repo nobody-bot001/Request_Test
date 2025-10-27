@@ -30847,7 +30847,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Intro to SE (SE-C)",
+              "subject": "Intro to SE (SE-C) Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L19",
               "row": 19,
@@ -31687,7 +31687,7 @@
             }
           },
           {
-            "subject": "Intro to SE (SE-C)",
+            "subject": "Intro to SE (SE-C) Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L19",
             "row": 19,
@@ -148941,7 +148941,7 @@
           "row": 19,
           "column": 12,
           "column_letter": "L",
-          "value": "Intro to SE (SE-C)",
+          "value": "Intro to SE (SE-C) Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "C-405",
           "styles": {
