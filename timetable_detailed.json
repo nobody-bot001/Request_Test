@@ -29386,7 +29386,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Takhleeq",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA18",
               "row": 18,
@@ -30248,7 +30248,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Takhleeq",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA18",
             "row": 18,
@@ -54104,7 +54104,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Web Prog (CS-A, G-2) Cancelled",
+              "subject": "Web Prog (CS-A, G-2) Cancelled Reser",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G32",
               "row": 32,
@@ -54954,7 +54954,7 @@
             }
           },
           {
-            "subject": "Web Prog (CS-A, G-2) Cancelled",
+            "subject": "Web Prog (CS-A, G-2) Cancelled Reser",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G32",
             "row": 32,
@@ -148367,7 +148367,7 @@
           "row": 18,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Takhleeq",
           "time_slot": "BS SE (2024)",
           "room": "C-404",
           "styles": {
@@ -161343,7 +161343,7 @@
           "row": 32,
           "column": 7,
           "column_letter": "G",
-          "value": "Web Prog (CS-A, G-2) Cancelled",
+          "value": "Web Prog (CS-A, G-2) Cancelled Reser",
           "time_slot": "BS CS (2024)",
           "room": "D-312",
           "styles": {

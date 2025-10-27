@@ -4287,7 +4287,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Takhleeq",
           "location": "Cell AA18",
           "row": 18,
           "column": 27
@@ -7745,7 +7745,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Web Prog (CS-A, G-2) Cancelled",
+          "subject": "Web Prog (CS-A, G-2) Cancelled Reser",
           "location": "Cell G32",
           "row": 32,
           "column": 7
