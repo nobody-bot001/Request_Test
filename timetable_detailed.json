@@ -48941,7 +48941,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "CS-A Reserved for Sir Shams",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q29",
               "row": 29,
@@ -49797,7 +49797,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "CS-A Reserved for Sir Shams",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q29",
             "row": 29,
@@ -158711,7 +158711,7 @@
           "row": 29,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "CS-A Reserved for Sir Shams",
           "time_slot": "BS AI (2024)",
           "room": "D-305",
           "styles": {
