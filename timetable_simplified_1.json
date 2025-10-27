@@ -4439,7 +4439,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Intro to SE (SE-C) Cancelled",
+          "subject": "Intro to SE (SE-C) Cancelled Reserved",
           "location": "Cell L19",
           "row": 19,
           "column": 12
@@ -4918,7 +4918,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "S/w Re-Engg (SE-B)",
+          "subject": "S/w Re-Engg (SE-B) D-406",
           "location": "Cell G21",
           "row": 21,
           "column": 7
@@ -10315,7 +10315,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Comp Vision (AI-D) Cancelled",
+          "subject": "Comp Vision (AI-D) Cancelled/Reserv",
           "location": "Cell G42",
           "row": 42,
           "column": 7

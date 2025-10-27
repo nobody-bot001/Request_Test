@@ -30847,7 +30847,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Intro to SE (SE-C) Cancelled",
+              "subject": "Intro to SE (SE-C) Cancelled Reserved",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L19",
               "row": 19,
@@ -31687,7 +31687,7 @@
             }
           },
           {
-            "subject": "Intro to SE (SE-C) Cancelled",
+            "subject": "Intro to SE (SE-C) Cancelled Reserved",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L19",
             "row": 19,
@@ -34315,7 +34315,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "S/w Re-Engg (SE-B)",
+              "subject": "S/w Re-Engg (SE-B) D-406",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G21",
               "row": 21,
@@ -35165,7 +35165,7 @@
             }
           },
           {
-            "subject": "S/w Re-Engg (SE-B)",
+            "subject": "S/w Re-Engg (SE-B) D-406",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G21",
             "row": 21,
@@ -72094,7 +72094,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Comp Vision (AI-D) Cancelled",
+              "subject": "Comp Vision (AI-D) Cancelled/Reserv",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G42",
               "row": 42,
@@ -72944,7 +72944,7 @@
             }
           },
           {
-            "subject": "Comp Vision (AI-D) Cancelled",
+            "subject": "Comp Vision (AI-D) Cancelled/Reserv",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G42",
             "row": 42,
@@ -148941,7 +148941,7 @@
           "row": 19,
           "column": 12,
           "column_letter": "L",
-          "value": "Intro to SE (SE-C) Cancelled",
+          "value": "Intro to SE (SE-C) Cancelled Reserved",
           "time_slot": "BS DS (2024)",
           "room": "C-405",
           "styles": {
@@ -150739,7 +150739,7 @@
           "row": 21,
           "column": 7,
           "column_letter": "G",
-          "value": "S/w Re-Engg (SE-B)",
+          "value": "S/w Re-Engg (SE-B) D-406",
           "time_slot": "BS CS (2024)",
           "room": "C-407",
           "styles": {
@@ -170983,7 +170983,7 @@
           "row": 42,
           "column": 7,
           "column_letter": "G",
-          "value": "Comp Vision (AI-D) Cancelled",
+          "value": "Comp Vision (AI-D) Cancelled/Reserv",
           "time_slot": "BS CS (2024)",
           "room": "D-406",
           "styles": {
