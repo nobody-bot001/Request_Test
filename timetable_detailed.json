@@ -29256,7 +29256,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Takhleeq",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V18",
               "row": 18,
@@ -30128,7 +30128,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Takhleeq",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V18",
             "row": 18,
@@ -148237,7 +148237,7 @@
           "row": 18,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Takhleeq",
           "time_slot": "BS CY (2024)",
           "room": "C-404",
           "styles": {
