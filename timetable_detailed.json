@@ -38147,7 +38147,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Fund of SPM (SE-B) D-304",
+              "subject": "Fund of SPM (SE-B) ",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q23",
               "row": 23,
@@ -39003,7 +39003,7 @@
             }
           },
           {
-            "subject": "Fund of SPM (SE-B) D-304",
+            "subject": "Fund of SPM (SE-B) ",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q23",
             "row": 23,
@@ -152927,7 +152927,7 @@
           "row": 23,
           "column": 17,
           "column_letter": "Q",
-          "value": "Fund of SPM (SE-B) D-304",
+          "value": "Fund of SPM (SE-B) ",
           "time_slot": "BS AI (2024)",
           "room": "C-409",
           "styles": {
