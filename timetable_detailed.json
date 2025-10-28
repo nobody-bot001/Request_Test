@@ -83226,7 +83226,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Cy Sec (CY-B) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V48",
               "row": 48,
@@ -84098,7 +84098,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Cy Sec (CY-B) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V48",
             "row": 48,
@@ -177157,7 +177157,7 @@
           "row": 48,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Cy Sec (CY-B) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "D-416",
           "styles": {
