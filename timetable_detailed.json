@@ -29256,7 +29256,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Takhleeq",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V18",
               "row": 18,
@@ -29386,7 +29386,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "Takhleeq",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA18",
               "row": 18,
@@ -30128,7 +30128,7 @@
             }
           },
           {
-            "subject": "Takhleeq",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V18",
             "row": 18,
@@ -30248,7 +30248,7 @@
             }
           },
           {
-            "subject": "Takhleeq",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA18",
             "row": 18,
@@ -148237,7 +148237,7 @@
           "row": 18,
           "column": 22,
           "column_letter": "V",
-          "value": "Takhleeq",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-404",
           "styles": {
@@ -148367,7 +148367,7 @@
           "row": 18,
           "column": 27,
           "column_letter": "AA",
-          "value": "Takhleeq",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-404",
           "styles": {

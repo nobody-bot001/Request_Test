@@ -4252,7 +4252,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Takhleeq",
+          "subject": NaN,
           "location": "Cell V18",
           "row": 18,
           "column": 22
@@ -4287,7 +4287,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Takhleeq",
+          "subject": NaN,
           "location": "Cell AA18",
           "row": 18,
           "column": 27
