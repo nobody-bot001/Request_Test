@@ -18462,7 +18462,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "FMHS",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V12",
               "row": 12,
@@ -19334,7 +19334,7 @@
             }
           },
           {
-            "subject": "FMHS",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V12",
             "row": 12,
@@ -142453,7 +142453,7 @@
           "row": 12,
           "column": 22,
           "column_letter": "V",
-          "value": "FMHS",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-309",
           "styles": {
