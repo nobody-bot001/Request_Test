@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "ML Lab (AI, 22) Sessional Exam",
           "location": "Cell B69",
           "row": 69,
           "column": 2
