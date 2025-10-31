@@ -6343,7 +6343,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Data St (CS-E) ReSch",
           "location": "Cell AA26",
           "row": 26,
           "column": 27
@@ -6787,7 +6787,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Reserved",
+          "subject": "Data St (CS-D) ReSch",
           "location": "Cell Q28",
           "row": 28,
           "column": 17
@@ -7044,7 +7044,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Reserved for Ms. Umarah",
+          "subject": NaN,
           "location": "Cell Q29",
           "row": 29,
           "column": 17

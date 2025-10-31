@@ -43778,7 +43778,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Data St (CS-E) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA26",
               "row": 26,
@@ -44640,7 +44640,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Data St (CS-E) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA26",
             "row": 26,
@@ -47142,7 +47142,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Reserved",
+              "subject": "Data St (CS-D) ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q28",
               "row": 28,
@@ -47998,7 +47998,7 @@
             }
           },
           {
-            "subject": "Reserved",
+            "subject": "Data St (CS-D) ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q28",
             "row": 28,
@@ -48941,7 +48941,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Reserved for Ms. Umarah",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q29",
               "row": 29,
@@ -49797,7 +49797,7 @@
             }
           },
           {
-            "subject": "Reserved for Ms. Umarah",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q29",
             "row": 29,
@@ -156079,7 +156079,7 @@
           "row": 26,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Data St (CS-E) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "D-302",
           "styles": {
@@ -157747,7 +157747,7 @@
           "row": 28,
           "column": 17,
           "column_letter": "Q",
-          "value": "Reserved",
+          "value": "Data St (CS-D) ReSch",
           "time_slot": "BS AI (2024)",
           "room": "D-304",
           "styles": {
@@ -158711,7 +158711,7 @@
           "row": 29,
           "column": 17,
           "column_letter": "Q",
-          "value": "Reserved for Ms. Umarah",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "D-305",
           "styles": {
