@@ -95611,7 +95611,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "GDGoC",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L55",
               "row": 55,
@@ -95715,7 +95715,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "GDGoC",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q55",
               "row": 55,
@@ -96451,7 +96451,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "GDGoC",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L55",
             "row": 55,
@@ -96571,7 +96571,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "GDGoC",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q55",
             "row": 55,
@@ -183645,7 +183645,7 @@
           "row": 55,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "GDGoC",
           "time_slot": "BS DS (2024)",
           "room": "C-110",
           "styles": {
@@ -183775,7 +183775,7 @@
           "row": 55,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "GDGoC",
           "time_slot": "BS AI (2024)",
           "room": "C-110",
           "styles": {

@@ -13691,7 +13691,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": NaN,
+          "subject": "GDGoC",
           "location": "Cell L55",
           "row": 55,
           "column": 12
@@ -13726,7 +13726,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "GDGoC",
           "location": "Cell Q55",
           "row": 55,
           "column": 17
