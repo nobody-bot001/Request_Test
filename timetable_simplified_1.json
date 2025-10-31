@@ -1974,7 +1974,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "AP (CS-A) ReSch",
           "location": "Cell AA9",
           "row": 9,
           "column": 27
@@ -7044,7 +7044,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "AP (CS-B) ReSch",
           "location": "Cell Q29",
           "row": 29,
           "column": 17
