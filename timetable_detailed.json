@@ -23859,7 +23859,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Tutorial (25)",
+              "subject": "Func Eng (DS-A) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V15",
               "row": 15,
@@ -23989,7 +23989,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func Eng (AI-C) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA15",
               "row": 15,
@@ -24731,7 +24731,7 @@
             }
           },
           {
-            "subject": "Tutorial (25)",
+            "subject": "Func Eng (DS-A) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V15",
             "row": 15,
@@ -24851,7 +24851,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func Eng (AI-C) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA15",
             "row": 15,
@@ -145345,7 +145345,7 @@
           "row": 15,
           "column": 22,
           "column_letter": "V",
-          "value": "Tutorial (25)",
+          "value": "Func Eng (DS-A) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "C-401",
           "styles": {
@@ -145475,7 +145475,7 @@
           "row": 15,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Func Eng (AI-C) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "C-401",
           "styles": {

@@ -3481,7 +3481,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Tutorial (25)",
+          "subject": "Func Eng (DS-A) ReSch",
           "location": "Cell V15",
           "row": 15,
           "column": 22
@@ -3516,7 +3516,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Func Eng (AI-C) ReSch",
           "location": "Cell AA15",
           "row": 15,
           "column": 27
