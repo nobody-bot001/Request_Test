@@ -59839,7 +59839,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Automata (CS-A)",
+              "subject": "Automata (CS-A) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V35",
               "row": 35,
@@ -59969,7 +59969,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Automata (CS-D) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA35",
               "row": 35,
@@ -60711,7 +60711,7 @@
             }
           },
           {
-            "subject": "Automata (CS-A)",
+            "subject": "Automata (CS-A) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V35",
             "row": 35,
@@ -60831,7 +60831,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Automata (CS-D) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA35",
             "row": 35,
@@ -164625,7 +164625,7 @@
           "row": 35,
           "column": 22,
           "column_letter": "V",
-          "value": "Automata (CS-A)",
+          "value": "Automata (CS-A) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "D-315",
           "styles": {
@@ -164755,7 +164755,7 @@
           "row": 35,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Automata (CS-D) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "D-315",
           "styles": {

@@ -8621,7 +8621,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Automata (CS-A)",
+          "subject": "Automata (CS-A) ReSch",
           "location": "Cell V35",
           "row": 35,
           "column": 22
@@ -8656,7 +8656,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Automata (CS-D) ReSch",
           "location": "Cell AA35",
           "row": 35,
           "column": 27
