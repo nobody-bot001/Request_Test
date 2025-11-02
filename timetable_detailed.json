@@ -109673,7 +109673,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Comp Net Lab (CS-C)",
+              "subject": "Comp Net Lab (CS-C) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B63",
               "row": 63,
@@ -110603,7 +110603,7 @@
         "row": 63,
         "schedule": [
           {
-            "subject": "Comp Net Lab (CS-C)",
+            "subject": "Comp Net Lab (CS-C) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B63",
             "row": 63,
@@ -191097,7 +191097,7 @@
           "row": 63,
           "column": 2,
           "column_letter": "B",
-          "value": "Comp Net Lab (CS-C)",
+          "value": "Comp Net Lab (CS-C) Cancelled",
           "time_slot": NaN,
           "room": "C-Margala 4",
           "styles": {
