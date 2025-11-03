@@ -100896,7 +100896,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "PF Lab (CS-J) Cancelled",
+              "subject": "PF Lab (CS-J) Cancelled Reserved",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L58",
               "row": 58,
@@ -101736,7 +101736,7 @@
             }
           },
           {
-            "subject": "PF Lab (CS-J) Cancelled",
+            "subject": "PF Lab (CS-J) Cancelled Reserved",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L58",
             "row": 58,
@@ -186393,7 +186393,7 @@
           "row": 58,
           "column": 12,
           "column_letter": "L",
-          "value": "PF Lab (CS-J) Cancelled",
+          "value": "PF Lab (CS-J) Cancelled Reserved",
           "time_slot": "BS DS (2024)",
           "room": "D-IT Lab 2",
           "styles": {
