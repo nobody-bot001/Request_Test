@@ -99307,7 +99307,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "IICT Lab (CS-F)",
+              "subject": "IICT Lab (CS-F) Cancelled",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V57",
               "row": 57,
@@ -100179,7 +100179,7 @@
             }
           },
           {
-            "subject": "IICT Lab (CS-F)",
+            "subject": "IICT Lab (CS-F) Cancelled",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V57",
             "row": 57,
@@ -185689,7 +185689,7 @@
           "row": 57,
           "column": 22,
           "column_letter": "V",
-          "value": "IICT Lab (CS-F)",
+          "value": "IICT Lab (CS-F) Cancelled",
           "time_slot": "BS CY (2024)",
           "room": "D-IT Lab 1",
           "styles": {
