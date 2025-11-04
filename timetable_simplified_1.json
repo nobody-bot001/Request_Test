@@ -1974,7 +1974,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "AP (CS-A) ReSch",
+          "subject": NaN,
           "location": "Cell AA9",
           "row": 9,
           "column": 27
@@ -2453,7 +2453,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell V11",
           "row": 11,
           "column": 22
@@ -2488,7 +2488,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell AA11",
           "row": 11,
           "column": 27
@@ -2710,7 +2710,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell V12",
           "row": 12,
           "column": 22
@@ -2745,7 +2745,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell AA12",
           "row": 12,
           "column": 27
@@ -2967,7 +2967,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell V13",
           "row": 13,
           "column": 22
@@ -3002,7 +3002,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "English Hiring Test",
+          "subject": NaN,
           "location": "Cell AA13",
           "row": 13,
           "column": 27
@@ -3189,7 +3189,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Reserved'",
+          "subject": NaN,
           "location": "Cell Q14",
           "row": 14,
           "column": 17
@@ -3224,7 +3224,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Reserved'",
+          "subject": NaN,
           "location": "Cell V14",
           "row": 14,
           "column": 22
@@ -3481,7 +3481,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng (DS-A) ReSch",
+          "subject": NaN,
           "location": "Cell V15",
           "row": 15,
           "column": 22
@@ -3516,7 +3516,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Func Eng (AI-C) ReSch",
+          "subject": NaN,
           "location": "Cell AA15",
           "row": 15,
           "column": 27
@@ -4252,7 +4252,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "AP (CS-G) ReSch",
+          "subject": NaN,
           "location": "Cell V18",
           "row": 18,
           "column": 22
@@ -4404,7 +4404,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Reserved",
+          "subject": NaN,
           "location": "Cell G19",
           "row": 19,
           "column": 7
@@ -4766,7 +4766,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "FCS",
+          "subject": NaN,
           "location": "Cell V20",
           "row": 20,
           "column": 22
@@ -4801,7 +4801,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "FCS",
+          "subject": NaN,
           "location": "Cell AA20",
           "row": 20,
           "column": 27
@@ -6343,7 +6343,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Data St (CS-E) ReSch",
+          "subject": NaN,
           "location": "Cell AA26",
           "row": 26,
           "column": 27
@@ -6787,7 +6787,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "Data St (CS-D) ReSch",
+          "subject": NaN,
           "location": "Cell Q28",
           "row": 28,
           "column": 17
@@ -7044,7 +7044,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "AP (CS-B) ReSch",
+          "subject": NaN,
           "location": "Cell Q29",
           "row": 29,
           "column": 17
@@ -8002,7 +8002,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Reserved for Ms Mehrosha",
+          "subject": NaN,
           "location": "Cell G33",
           "row": 33,
           "column": 7
@@ -8294,7 +8294,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Net (CS-B) ReSch ",
+          "subject": NaN,
           "location": "Cell L34",
           "row": 34,
           "column": 12
@@ -8621,7 +8621,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Automata (CS-A) ReSch",
+          "subject": NaN,
           "location": "Cell V35",
           "row": 35,
           "column": 22
@@ -8656,7 +8656,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Automata (CS-D) ReSch",
+          "subject": NaN,
           "location": "Cell AA35",
           "row": 35,
           "column": 27
@@ -11962,7 +11962,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Cy Sec (CY-B) ReSch",
+          "subject": NaN,
           "location": "Cell V48",
           "row": 48,
           "column": 22
@@ -14275,7 +14275,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "IICT Lab (CS-F) Cancelled",
+          "subject": "IICT Lab (CS-F)",
           "location": "Cell V57",
           "row": 57,
           "column": 22
@@ -14462,7 +14462,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "PF Lab (CS-J) Cancelled Reserved",
+          "subject": "PF Lab (CS-J)",
           "location": "Cell L58",
           "row": 58,
           "column": 12
@@ -15677,7 +15677,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Comp Net Lab (CS-C) Cancelled",
+          "subject": "Comp Net Lab (CS-C) ",
           "location": "Cell B63",
           "row": 63,
           "column": 2
@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "ML Lab (AI, 22) Sessional Exam",
+          "subject": NaN,
           "location": "Cell B69",
           "row": 69,
           "column": 2

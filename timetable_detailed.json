@@ -13181,7 +13181,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "AP (CS-A) ReSch",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA9",
               "row": 9,
@@ -14043,7 +14043,7 @@
             }
           },
           {
-            "subject": "AP (CS-A) ReSch",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA9",
             "row": 9,
@@ -16645,7 +16645,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V11",
               "row": 11,
@@ -16775,7 +16775,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA11",
               "row": 11,
@@ -17517,7 +17517,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V11",
             "row": 11,
@@ -17637,7 +17637,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA11",
             "row": 11,
@@ -18442,7 +18442,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V12",
               "row": 12,
@@ -18572,7 +18572,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA12",
               "row": 12,
@@ -19314,7 +19314,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V12",
             "row": 12,
@@ -19434,7 +19434,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA12",
             "row": 12,
@@ -20239,7 +20239,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V13",
               "row": 13,
@@ -20369,7 +20369,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "English Hiring Test",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA13",
               "row": 13,
@@ -21111,7 +21111,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V13",
             "row": 13,
@@ -21231,7 +21231,7 @@
             }
           },
           {
-            "subject": "English Hiring Test",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA13",
             "row": 13,
@@ -21932,7 +21932,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Reserved'",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q14",
               "row": 14,
@@ -22036,7 +22036,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Reserved'",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V14",
               "row": 14,
@@ -22788,7 +22788,7 @@
             }
           },
           {
-            "subject": "Reserved'",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q14",
             "row": 14,
@@ -22908,7 +22908,7 @@
             }
           },
           {
-            "subject": "Reserved'",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V14",
             "row": 14,
@@ -23833,7 +23833,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Func Eng (DS-A) ReSch",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V15",
               "row": 15,
@@ -23963,7 +23963,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "Func Eng (AI-C) ReSch",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA15",
               "row": 15,
@@ -24705,7 +24705,7 @@
             }
           },
           {
-            "subject": "Func Eng (DS-A) ReSch",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V15",
             "row": 15,
@@ -24825,7 +24825,7 @@
             }
           },
           {
-            "subject": "Func Eng (AI-C) ReSch",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA15",
             "row": 15,
@@ -29224,7 +29224,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "AP (CS-G) ReSch",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V18",
               "row": 18,
@@ -30096,7 +30096,7 @@
             }
           },
           {
-            "subject": "AP (CS-G) ReSch",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V18",
             "row": 18,
@@ -30709,7 +30709,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Reserved",
+              "subject": NaN,
               "time_slot": "BS CS (2024)",
               "cell_reference": "G19",
               "row": 19,
@@ -31533,7 +31533,7 @@
             }
           },
           {
-            "subject": "Reserved",
+            "subject": NaN,
             "time_slot": "BS CS (2024)",
             "cell_reference": "G19",
             "row": 19,
@@ -32818,7 +32818,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "FCS",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V20",
               "row": 20,
@@ -32948,7 +32948,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "FCS",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA20",
               "row": 20,
@@ -33690,7 +33690,7 @@
             }
           },
           {
-            "subject": "FCS",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V20",
             "row": 20,
@@ -33810,7 +33810,7 @@
             }
           },
           {
-            "subject": "FCS",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA20",
             "row": 20,
@@ -43730,7 +43730,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "Data St (CS-E) ReSch",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA26",
               "row": 26,
@@ -44592,7 +44592,7 @@
             }
           },
           {
-            "subject": "Data St (CS-E) ReSch",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA26",
             "row": 26,
@@ -47090,7 +47090,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Data St (CS-D) ReSch",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q28",
               "row": 28,
@@ -47946,7 +47946,7 @@
             }
           },
           {
-            "subject": "Data St (CS-D) ReSch",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q28",
             "row": 28,
@@ -48887,7 +48887,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "AP (CS-B) ReSch",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q29",
               "row": 29,
@@ -49743,7 +49743,7 @@
             }
           },
           {
-            "subject": "AP (CS-B) ReSch",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q29",
             "row": 29,
@@ -55867,7 +55867,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Reserved for Ms Mehrosha",
+              "subject": NaN,
               "time_slot": "BS CS (2024)",
               "cell_reference": "G33",
               "row": 33,
@@ -56691,7 +56691,7 @@
             }
           },
           {
-            "subject": "Reserved for Ms Mehrosha",
+            "subject": NaN,
             "time_slot": "BS CS (2024)",
             "cell_reference": "G33",
             "row": 33,
@@ -57768,7 +57768,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Comp Net (CS-B) ReSch ",
+              "subject": NaN,
               "time_slot": "BS DS (2024)",
               "cell_reference": "L34",
               "row": 34,
@@ -58608,7 +58608,7 @@
             }
           },
           {
-            "subject": "Comp Net (CS-B) ReSch ",
+            "subject": NaN,
             "time_slot": "BS DS (2024)",
             "cell_reference": "L34",
             "row": 34,
@@ -59773,7 +59773,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Automata (CS-A) ReSch",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V35",
               "row": 35,
@@ -59903,7 +59903,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "Automata (CS-D) ReSch",
+              "subject": NaN,
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA35",
               "row": 35,
@@ -60645,7 +60645,7 @@
             }
           },
           {
-            "subject": "Automata (CS-A) ReSch",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V35",
             "row": 35,
@@ -60765,7 +60765,7 @@
             }
           },
           {
-            "subject": "Automata (CS-D) ReSch",
+            "subject": NaN,
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA35",
             "row": 35,
@@ -83134,7 +83134,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Cy Sec (CY-B) ReSch",
+              "subject": NaN,
               "time_slot": "BS CY (2024)",
               "cell_reference": "V48",
               "row": 48,
@@ -84006,7 +84006,7 @@
             }
           },
           {
-            "subject": "Cy Sec (CY-B) ReSch",
+            "subject": NaN,
             "time_slot": "BS CY (2024)",
             "cell_reference": "V48",
             "row": 48,
@@ -99307,7 +99307,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "IICT Lab (CS-F) Cancelled",
+              "subject": "IICT Lab (CS-F)",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V57",
               "row": 57,
@@ -100179,7 +100179,7 @@
             }
           },
           {
-            "subject": "IICT Lab (CS-F) Cancelled",
+            "subject": "IICT Lab (CS-F)",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V57",
             "row": 57,
@@ -100896,7 +100896,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "PF Lab (CS-J) Cancelled Reserved",
+              "subject": "PF Lab (CS-J)",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L58",
               "row": 58,
@@ -101736,7 +101736,7 @@
             }
           },
           {
-            "subject": "PF Lab (CS-J) Cancelled Reserved",
+            "subject": "PF Lab (CS-J)",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L58",
             "row": 58,
@@ -109553,7 +109553,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Comp Net Lab (CS-C) Cancelled",
+              "subject": "Comp Net Lab (CS-C) ",
               "time_slot": NaN,
               "cell_reference": "B63",
               "row": 63,
@@ -110481,7 +110481,7 @@
         "row": 63,
         "schedule": [
           {
-            "subject": "Comp Net Lab (CS-C) Cancelled",
+            "subject": "Comp Net Lab (CS-C) ",
             "time_slot": NaN,
             "cell_reference": "B63",
             "row": 63,
@@ -120335,7 +120335,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "ML Lab (AI, 22) Sessional Exam",
+              "subject": NaN,
               "time_slot": NaN,
               "cell_reference": "B69",
               "row": 69,
@@ -121263,7 +121263,7 @@
         "row": 69,
         "schedule": [
           {
-            "subject": "ML Lab (AI, 22) Sessional Exam",
+            "subject": NaN,
             "time_slot": NaN,
             "cell_reference": "B69",
             "row": 69,
@@ -139547,7 +139547,7 @@
           "row": 9,
           "column": 27,
           "column_letter": "AA",
-          "value": "AP (CS-A) ReSch",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-305",
           "styles": {
@@ -141345,7 +141345,7 @@
           "row": 11,
           "column": 22,
           "column_letter": "V",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-308",
           "styles": {
@@ -141475,7 +141475,7 @@
           "row": 11,
           "column": 27,
           "column_letter": "AA",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-308",
           "styles": {
@@ -142309,7 +142309,7 @@
           "row": 12,
           "column": 22,
           "column_letter": "V",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-309",
           "styles": {
@@ -142439,7 +142439,7 @@
           "row": 12,
           "column": 27,
           "column_letter": "AA",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-309",
           "styles": {
@@ -143273,7 +143273,7 @@
           "row": 13,
           "column": 22,
           "column_letter": "V",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-310",
           "styles": {
@@ -143403,7 +143403,7 @@
           "row": 13,
           "column": 27,
           "column_letter": "AA",
-          "value": "English Hiring Test",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-310",
           "styles": {
@@ -144107,7 +144107,7 @@
           "row": 14,
           "column": 17,
           "column_letter": "Q",
-          "value": "Reserved'",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "C-311",
           "styles": {
@@ -144237,7 +144237,7 @@
           "row": 14,
           "column": 22,
           "column_letter": "V",
-          "value": "Reserved'",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-311",
           "styles": {
@@ -145201,7 +145201,7 @@
           "row": 15,
           "column": 22,
           "column_letter": "V",
-          "value": "Func Eng (DS-A) ReSch",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-401",
           "styles": {
@@ -145331,7 +145331,7 @@
           "row": 15,
           "column": 27,
           "column_letter": "AA",
-          "value": "Func Eng (AI-C) ReSch",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-401",
           "styles": {
@@ -148093,7 +148093,7 @@
           "row": 18,
           "column": 22,
           "column_letter": "V",
-          "value": "AP (CS-G) ReSch",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-404",
           "styles": {
@@ -148667,7 +148667,7 @@
           "row": 19,
           "column": 7,
           "column_letter": "G",
-          "value": "Reserved",
+          "value": NaN,
           "time_slot": "BS CS (2024)",
           "room": "C-405",
           "styles": {
@@ -150021,7 +150021,7 @@
           "row": 20,
           "column": 22,
           "column_letter": "V",
-          "value": "FCS",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "C-406",
           "styles": {
@@ -150151,7 +150151,7 @@
           "row": 20,
           "column": 27,
           "column_letter": "AA",
-          "value": "FCS",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "C-406",
           "styles": {
@@ -155935,7 +155935,7 @@
           "row": 26,
           "column": 27,
           "column_letter": "AA",
-          "value": "Data St (CS-E) ReSch",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "D-302",
           "styles": {
@@ -157603,7 +157603,7 @@
           "row": 28,
           "column": 17,
           "column_letter": "Q",
-          "value": "Data St (CS-D) ReSch",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "D-304",
           "styles": {
@@ -158567,7 +158567,7 @@
           "row": 29,
           "column": 17,
           "column_letter": "Q",
-          "value": "AP (CS-B) ReSch",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "D-305",
           "styles": {
@@ -162163,7 +162163,7 @@
           "row": 33,
           "column": 7,
           "column_letter": "G",
-          "value": "Reserved for Ms Mehrosha",
+          "value": NaN,
           "time_slot": "BS CS (2024)",
           "room": "D-313",
           "styles": {
@@ -163257,7 +163257,7 @@
           "row": 34,
           "column": 12,
           "column_letter": "L",
-          "value": "Comp Net (CS-B) ReSch ",
+          "value": NaN,
           "time_slot": "BS DS (2024)",
           "room": "D-314",
           "styles": {
@@ -164481,7 +164481,7 @@
           "row": 35,
           "column": 22,
           "column_letter": "V",
-          "value": "Automata (CS-A) ReSch",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "D-315",
           "styles": {
@@ -164611,7 +164611,7 @@
           "row": 35,
           "column": 27,
           "column_letter": "AA",
-          "value": "Automata (CS-D) ReSch",
+          "value": NaN,
           "time_slot": "BS SE (2024)",
           "room": "D-315",
           "styles": {
@@ -177013,7 +177013,7 @@
           "row": 48,
           "column": 22,
           "column_letter": "V",
-          "value": "Cy Sec (CY-B) ReSch",
+          "value": NaN,
           "time_slot": "BS CY (2024)",
           "room": "D-416",
           "styles": {
@@ -185689,7 +185689,7 @@
           "row": 57,
           "column": 22,
           "column_letter": "V",
-          "value": "IICT Lab (CS-F) Cancelled",
+          "value": "IICT Lab (CS-F)",
           "time_slot": "BS CY (2024)",
           "room": "D-IT Lab 1",
           "styles": {
@@ -186393,7 +186393,7 @@
           "row": 58,
           "column": 12,
           "column_letter": "L",
-          "value": "PF Lab (CS-J) Cancelled Reserved",
+          "value": "PF Lab (CS-J)",
           "time_slot": "BS DS (2024)",
           "room": "D-IT Lab 2",
           "styles": {
@@ -190953,7 +190953,7 @@
           "row": 63,
           "column": 2,
           "column_letter": "B",
-          "value": "Comp Net Lab (CS-C) Cancelled",
+          "value": "Comp Net Lab (CS-C) ",
           "time_slot": NaN,
           "room": "C-Margala 4",
           "styles": {
@@ -196737,7 +196737,7 @@
           "row": 69,
           "column": 2,
           "column_letter": "B",
-          "value": "ML Lab (AI, 22) Sessional Exam",
+          "value": NaN,
           "time_slot": NaN,
           "room": "A-Mehran 1",
           "styles": {
