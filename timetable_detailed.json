@@ -9145,7 +9145,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "Calculus (CS-C) ",
+              "subject": "Calculus (CS-C) Cancelled",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G7",
               "row": 7,
@@ -9969,7 +9969,7 @@
             }
           },
           {
-            "subject": "Calculus (CS-C) ",
+            "subject": "Calculus (CS-C) Cancelled",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G7",
             "row": 7,
@@ -10718,7 +10718,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Calculus (CS-D)",
+              "subject": "Calculus (CS-D) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B8",
               "row": 8,
@@ -11646,7 +11646,7 @@
         "row": 8,
         "schedule": [
           {
-            "subject": "Calculus (CS-D)",
+            "subject": "Calculus (CS-D) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B8",
             "row": 8,
@@ -137099,7 +137099,7 @@
           "row": 7,
           "column": 7,
           "column_letter": "G",
-          "value": "Calculus (CS-C) ",
+          "value": "Calculus (CS-C) Cancelled",
           "time_slot": "BS CS (2024)",
           "room": "C-303",
           "styles": {
@@ -137933,7 +137933,7 @@
           "row": 8,
           "column": 2,
           "column_letter": "B",
-          "value": "Calculus (CS-D)",
+          "value": "Calculus (CS-D) Cancelled",
           "time_slot": NaN,
           "room": "C-304",
           "styles": {

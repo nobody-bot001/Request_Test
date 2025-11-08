@@ -1320,7 +1320,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Calculus (CS-C) ",
+          "subject": "Calculus (CS-C) Cancelled",
           "location": "Cell G7",
           "row": 7,
           "column": 7
@@ -1542,7 +1542,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Calculus (CS-D)",
+          "subject": "Calculus (CS-D) Cancelled",
           "location": "Cell B8",
           "row": 8,
           "column": 2
