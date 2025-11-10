@@ -18572,7 +18572,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "FCSS",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA12",
               "row": 12,
@@ -19434,7 +19434,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "FCSS",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA12",
             "row": 12,
@@ -22036,7 +22036,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "FDSS",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V14",
               "row": 14,
@@ -22166,7 +22166,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "FDSS",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA14",
               "row": 14,
@@ -22908,7 +22908,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "FDSS",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V14",
             "row": 14,
@@ -23028,7 +23028,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "FDSS",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA14",
             "row": 14,
@@ -142439,7 +142439,7 @@
           "row": 12,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "FCSS",
           "time_slot": "BS SE (2024)",
           "room": "C-309",
           "styles": {
@@ -144237,7 +144237,7 @@
           "row": 14,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "FDSS",
           "time_slot": "BS CY (2024)",
           "room": "C-311",
           "styles": {
@@ -144367,7 +144367,7 @@
           "row": 14,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "FDSS",
           "time_slot": "BS SE (2024)",
           "room": "C-311",
           "styles": {
