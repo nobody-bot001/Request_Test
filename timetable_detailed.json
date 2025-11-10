@@ -48679,7 +48679,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": "LA (CS-F)",
+              "subject": "LA (CS-F) Cancelled",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G29",
               "row": 29,
@@ -49503,7 +49503,7 @@
             }
           },
           {
-            "subject": "LA (CS-F)",
+            "subject": "LA (CS-F) Cancelled",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G29",
             "row": 29,
@@ -158307,7 +158307,7 @@
           "row": 29,
           "column": 7,
           "column_letter": "G",
-          "value": "LA (CS-F)",
+          "value": "LA (CS-F) Cancelled",
           "time_slot": "BS CS (2024)",
           "room": "D-305",
           "styles": {
