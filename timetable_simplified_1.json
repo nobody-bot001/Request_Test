@@ -7196,7 +7196,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "DIP (CS-A, G-2) ",
+          "subject": "DIP (CS-A, G-2) Cancelled",
           "location": "Cell B30",
           "row": 30,
           "column": 2
@@ -8329,7 +8329,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "DIP (CS-B, G-2) ",
+          "subject": "DIP (CS-B, G-2) Cancelled",
           "location": "Cell Q34",
           "row": 34,
           "column": 17

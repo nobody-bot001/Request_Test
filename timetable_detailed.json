@@ -50252,7 +50252,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "DIP (CS-A, G-2) ",
+              "subject": "DIP (CS-A, G-2) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B30",
               "row": 30,
@@ -51180,7 +51180,7 @@
         "row": 30,
         "schedule": [
           {
-            "subject": "DIP (CS-A, G-2) ",
+            "subject": "DIP (CS-A, G-2) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B30",
             "row": 30,
@@ -57872,7 +57872,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "DIP (CS-B, G-2) ",
+              "subject": "DIP (CS-B, G-2) Cancelled",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q34",
               "row": 34,
@@ -58728,7 +58728,7 @@
             }
           },
           {
-            "subject": "DIP (CS-B, G-2) ",
+            "subject": "DIP (CS-B, G-2) Cancelled",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q34",
             "row": 34,
@@ -159141,7 +159141,7 @@
           "row": 30,
           "column": 2,
           "column_letter": "B",
-          "value": "DIP (CS-A, G-2) ",
+          "value": "DIP (CS-A, G-2) Cancelled",
           "time_slot": NaN,
           "room": "D-306",
           "styles": {
@@ -163387,7 +163387,7 @@
           "row": 34,
           "column": 17,
           "column_letter": "Q",
-          "value": "DIP (CS-B, G-2) ",
+          "value": "DIP (CS-B, G-2) Cancelled",
           "time_slot": "BS AI (2024)",
           "room": "D-314",
           "styles": {
