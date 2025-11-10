@@ -129320,7 +129320,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "DLD Lab (SE-A)",
+              "subject": "DLD Lab (SE-A) Cancelled",
               "time_slot": NaN,
               "cell_reference": "B74",
               "row": 74,
@@ -130248,7 +130248,7 @@
         "row": 74,
         "schedule": [
           {
-            "subject": "DLD Lab (SE-A)",
+            "subject": "DLD Lab (SE-A) Cancelled",
             "time_slot": NaN,
             "cell_reference": "B74",
             "row": 74,
@@ -201557,7 +201557,7 @@
           "row": 74,
           "column": 2,
           "column_letter": "B",
-          "value": "DLD Lab (SE-A)",
+          "value": "DLD Lab (SE-A) Cancelled",
           "time_slot": NaN,
           "room": "B-Digital",
           "styles": {
