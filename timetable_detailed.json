@@ -11046,7 +11046,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "AP (CS-D)",
+              "subject": "AP (CS-D) Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L8",
               "row": 8,
@@ -11886,7 +11886,7 @@
             }
           },
           {
-            "subject": "AP (CS-D)",
+            "subject": "AP (CS-D) Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L8",
             "row": 8,
@@ -138193,7 +138193,7 @@
           "row": 8,
           "column": 12,
           "column_letter": "L",
-          "value": "AP (CS-D)",
+          "value": "AP (CS-D) Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "C-304",
           "styles": {
