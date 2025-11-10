@@ -63367,7 +63367,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "HPC (CS-C) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V37",
               "row": 37,
@@ -64239,7 +64239,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "HPC (CS-C) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V37",
             "row": 37,
@@ -166409,7 +166409,7 @@
           "row": 37,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "HPC (CS-C) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "D-401",
           "styles": {
