@@ -30717,7 +30717,7 @@
           ],
           "BS CS (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func Eng Lab (AI-C1) ReSch",
               "time_slot": "BS CS (2024)",
               "cell_reference": "G19",
               "row": 19,
@@ -31567,7 +31567,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func Eng Lab (AI-C1) ReSch",
             "time_slot": "BS CS (2024)",
             "cell_reference": "G19",
             "row": 19,
@@ -148811,7 +148811,7 @@
           "row": 19,
           "column": 7,
           "column_letter": "G",
-          "value": NaN,
+          "value": "Func Eng Lab (AI-C1) ReSch",
           "time_slot": "BS CS (2024)",
           "room": "C-405",
           "styles": {
