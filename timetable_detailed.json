@@ -31055,7 +31055,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Psychology (SE-C) 02:30-04:15",
+              "subject": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V19",
               "row": 19,
@@ -31927,7 +31927,7 @@
             }
           },
           {
-            "subject": "Psychology (SE-C) 02:30-04:15",
+            "subject": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V19",
             "row": 19,
@@ -149201,7 +149201,7 @@
           "row": 19,
           "column": 22,
           "column_letter": "V",
-          "value": "Psychology (SE-C) 02:30-04:15",
+          "value": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
           "time_slot": "BS CY (2024)",
           "room": "C-405",
           "styles": {
