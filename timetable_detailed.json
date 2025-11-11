@@ -72562,7 +72562,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": "ML (AI, 22",
+              "subject": "ML (AI, 22)",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA42",
               "row": 42,
@@ -73424,7 +73424,7 @@
             }
           },
           {
-            "subject": "ML (AI, 22",
+            "subject": "ML (AI, 22)",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA42",
             "row": 42,
@@ -81557,7 +81557,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Algo (CY, 22)  ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA47",
               "row": 47,
@@ -82419,7 +82419,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Algo (CY, 22)  ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA47",
             "row": 47,
@@ -171503,7 +171503,7 @@
           "row": 42,
           "column": 27,
           "column_letter": "AA",
-          "value": "ML (AI, 22",
+          "value": "ML (AI, 22)",
           "time_slot": "BS SE (2024)",
           "room": "D-406",
           "styles": {
@@ -176323,7 +176323,7 @@
           "row": 47,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Algo (CY, 22)  ReSch",
           "time_slot": "BS SE (2024)",
           "room": "D-415",
           "styles": {
