@@ -23859,7 +23859,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func English (DS-A) ReSch 02:30-03:30 ",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V15",
               "row": 15,
@@ -24731,7 +24731,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func English (DS-A) ReSch 02:30-03:30 ",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V15",
             "row": 15,
@@ -145345,7 +145345,7 @@
           "row": 15,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Func English (DS-A) ReSch 02:30-03:30 ",
           "time_slot": "BS CY (2024)",
           "room": "C-401",
           "styles": {
