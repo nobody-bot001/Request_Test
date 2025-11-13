@@ -25554,7 +25554,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Prob & Stats (SE-A)",
+              "subject": "Prob & Stats (SE-A) Cancelled",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q16",
               "row": 16,
@@ -26410,7 +26410,7 @@
             }
           },
           {
-            "subject": "Prob & Stats (SE-A)",
+            "subject": "Prob & Stats (SE-A) Cancelled",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q16",
             "row": 16,
@@ -146179,7 +146179,7 @@
           "row": 16,
           "column": 17,
           "column_letter": "Q",
-          "value": "Prob & Stats (SE-A)",
+          "value": "Prob & Stats (SE-A) Cancelled",
           "time_slot": "BS AI (2024)",
           "room": "C-402",
           "styles": {
