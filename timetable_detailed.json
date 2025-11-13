@@ -90214,7 +90214,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "FYP Session",
+              "subject": "Ideology of Pak (CY-A) 11:30-01:15 ReSch",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L52",
               "row": 52,
@@ -90318,7 +90318,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "FYP Session",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q52",
               "row": 52,
@@ -91054,7 +91054,7 @@
             }
           },
           {
-            "subject": "FYP Session",
+            "subject": "Ideology of Pak (CY-A) 11:30-01:15 ReSch",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L52",
             "row": 52,
@@ -91174,7 +91174,7 @@
             }
           },
           {
-            "subject": "FYP Session",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q52",
             "row": 52,
@@ -180753,7 +180753,7 @@
           "row": 52,
           "column": 12,
           "column_letter": "L",
-          "value": "FYP Session",
+          "value": "Ideology of Pak (CY-A) 11:30-01:15 ReSch",
           "time_slot": "BS DS (2024)",
           "room": "D-504",
           "styles": {
@@ -180883,7 +180883,7 @@
           "row": 52,
           "column": 17,
           "column_letter": "Q",
-          "value": "FYP Session",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "D-504",
           "styles": {
