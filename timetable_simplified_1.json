@@ -2745,7 +2745,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "PF (SE-C) ReSch",
           "location": "Cell AA12",
           "row": 12,
           "column": 27
@@ -2967,7 +2967,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Func Eng Lab (DS-B1) ReSch ",
           "location": "Cell V13",
           "row": 13,
           "column": 22
@@ -5794,7 +5794,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "LA (CS-D) ReSch ",
           "location": "Cell V24",
           "row": 24,
           "column": 22
@@ -17219,7 +17219,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "IICT Lab (CY-A) ReSch",
           "location": "Cell B69",
           "row": 69,
           "column": 2
