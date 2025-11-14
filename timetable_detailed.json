@@ -18462,7 +18462,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "PF (SE-B) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V12",
               "row": 12,
@@ -19334,7 +19334,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "PF (SE-B) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V12",
             "row": 12,
@@ -47142,7 +47142,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "PF (SE-A) ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q28",
               "row": 28,
@@ -47998,7 +47998,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "PF (SE-A) ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q28",
             "row": 28,
@@ -142453,7 +142453,7 @@
           "row": 12,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "PF (SE-B) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "C-309",
           "styles": {
@@ -157747,7 +157747,7 @@
           "row": 28,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "PF (SE-A) ReSch",
           "time_slot": "BS AI (2024)",
           "room": "D-304",
           "styles": {
