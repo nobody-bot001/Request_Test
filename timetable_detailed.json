@@ -110003,7 +110003,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "Comp Net Lab (CS-F) ReSch ",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L63",
               "row": 63,
@@ -110843,7 +110843,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Comp Net Lab (CS-F) ReSch ",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L63",
             "row": 63,
@@ -191357,7 +191357,7 @@
           "row": 63,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "Comp Net Lab (CS-F) ReSch ",
           "time_slot": "BS DS (2024)",
           "room": "C-Margala 4",
           "styles": {
