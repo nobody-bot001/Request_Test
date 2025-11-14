@@ -86616,7 +86616,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Dr. Qurat Ul Ain",
+              "subject": NaN,
               "time_slot": "BS DS (2024)",
               "cell_reference": "L50",
               "row": 50,
@@ -86720,7 +86720,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": "Dr. Qurat Ul Ain",
+              "subject": NaN,
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q50",
               "row": 50,
@@ -87456,7 +87456,7 @@
             }
           },
           {
-            "subject": "Dr. Qurat Ul Ain",
+            "subject": NaN,
             "time_slot": "BS DS (2024)",
             "cell_reference": "L50",
             "row": 50,
@@ -87576,7 +87576,7 @@
             }
           },
           {
-            "subject": "Dr. Qurat Ul Ain",
+            "subject": NaN,
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q50",
             "row": 50,
@@ -110003,7 +110003,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Comp Net Lab (CS-F) ReSch ",
+              "subject": NaN,
               "time_slot": "BS DS (2024)",
               "cell_reference": "L63",
               "row": 63,
@@ -110843,7 +110843,7 @@
             }
           },
           {
-            "subject": "Comp Net Lab (CS-F) ReSch ",
+            "subject": NaN,
             "time_slot": "BS DS (2024)",
             "cell_reference": "L63",
             "row": 63,
@@ -178825,7 +178825,7 @@
           "row": 50,
           "column": 12,
           "column_letter": "L",
-          "value": "Dr. Qurat Ul Ain",
+          "value": NaN,
           "time_slot": "BS DS (2024)",
           "room": "D-502",
           "styles": {
@@ -178955,7 +178955,7 @@
           "row": 50,
           "column": 17,
           "column_letter": "Q",
-          "value": "Dr. Qurat Ul Ain",
+          "value": NaN,
           "time_slot": "BS AI (2024)",
           "room": "D-502",
           "styles": {
@@ -191357,7 +191357,7 @@
           "row": 63,
           "column": 12,
           "column_letter": "L",
-          "value": "Comp Net Lab (CS-F) ReSch ",
+          "value": NaN,
           "time_slot": "BS DS (2024)",
           "room": "C-Margala 4",
           "styles": {
