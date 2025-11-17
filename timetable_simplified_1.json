@@ -8621,7 +8621,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "FDSS",
           "location": "Cell V35",
           "row": 35,
           "column": 22
