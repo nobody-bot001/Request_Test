@@ -63437,7 +63437,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved ",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V37",
               "row": 37,
@@ -63567,7 +63567,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved ",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA37",
               "row": 37,
@@ -64309,7 +64309,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved ",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V37",
             "row": 37,
@@ -64429,7 +64429,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved ",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA37",
             "row": 37,
@@ -166553,7 +166553,7 @@
           "row": 37,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Reserved ",
           "time_slot": "BS CY (2024)",
           "room": "D-401",
           "styles": {
@@ -166683,7 +166683,7 @@
           "row": 37,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Reserved ",
           "time_slot": "BS SE (2024)",
           "room": "D-401",
           "styles": {
