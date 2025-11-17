@@ -127993,7 +127993,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Func Eng Lab (SE-C2)",
+              "subject": "Func Eng Lab (SE-C2) Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L73",
               "row": 73,
@@ -128833,7 +128833,7 @@
             }
           },
           {
-            "subject": "Func Eng Lab (SE-C2)",
+            "subject": "Func Eng Lab (SE-C2) Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L73",
             "row": 73,
@@ -200997,7 +200997,7 @@
           "row": 73,
           "column": 12,
           "column_letter": "L",
-          "value": "Func Eng Lab (SE-C2)",
+          "value": "Func Eng Lab (SE-C2) Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "A-CALL-3",
           "styles": {
