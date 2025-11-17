@@ -3189,7 +3189,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell Q14",
           "row": 14,
           "column": 17
@@ -3224,7 +3224,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell V14",
           "row": 14,
           "column": 22
@@ -3259,7 +3259,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell AA14",
           "row": 14,
           "column": 27

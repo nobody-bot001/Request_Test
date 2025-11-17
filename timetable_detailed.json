@@ -21956,7 +21956,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q14",
               "row": 14,
@@ -22060,7 +22060,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V14",
               "row": 14,
@@ -22190,7 +22190,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA14",
               "row": 14,
@@ -22812,7 +22812,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q14",
             "row": 14,
@@ -22932,7 +22932,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V14",
             "row": 14,
@@ -23052,7 +23052,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA14",
             "row": 14,
@@ -144251,7 +144251,7 @@
           "row": 14,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS AI (2024)",
           "room": "C-311",
           "styles": {
@@ -144381,7 +144381,7 @@
           "row": 14,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS CY (2024)",
           "room": "C-311",
           "styles": {
@@ -144511,7 +144511,7 @@
           "row": 14,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS SE (2024)",
           "room": "C-311",
           "styles": {
