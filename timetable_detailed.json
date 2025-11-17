@@ -86824,7 +86824,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V50",
               "row": 50,
@@ -86954,7 +86954,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA50",
               "row": 50,
@@ -87696,7 +87696,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V50",
             "row": 50,
@@ -87816,7 +87816,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA50",
             "row": 50,
@@ -124603,7 +124603,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Func Eng Lab (AI-A2)",
+              "subject": "Func Eng Lab (AI-A2) Cancelled",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V71",
               "row": 71,
@@ -125475,7 +125475,7 @@
             }
           },
           {
-            "subject": "Func Eng Lab (AI-A2)",
+            "subject": "Func Eng Lab (AI-A2) Cancelled",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V71",
             "row": 71,
@@ -179085,7 +179085,7 @@
           "row": 50,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS CY (2024)",
           "room": "D-502",
           "styles": {
@@ -179215,7 +179215,7 @@
           "row": 50,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Reserved",
           "time_slot": "BS SE (2024)",
           "room": "D-502",
           "styles": {
@@ -199329,7 +199329,7 @@
           "row": 71,
           "column": 22,
           "column_letter": "V",
-          "value": "Func Eng Lab (AI-A2)",
+          "value": "Func Eng Lab (AI-A2) Cancelled",
           "time_slot": "BS CY (2024)",
           "room": "A-CALL-1",
           "styles": {

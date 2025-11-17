@@ -12476,7 +12476,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell V50",
           "row": 50,
           "column": 22
@@ -12511,7 +12511,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Reserved",
           "location": "Cell AA50",
           "row": 50,
           "column": 27
@@ -17873,7 +17873,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng Lab (AI-A2)",
+          "subject": "Func Eng Lab (AI-A2) Cancelled",
           "location": "Cell V71",
           "row": 71,
           "column": 22
