@@ -76030,7 +76030,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Comp Net (DS-A) ",
+              "subject": "Comp Net (DS-A) Cancelled",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V44",
               "row": 44,
@@ -76902,7 +76902,7 @@
             }
           },
           {
-            "subject": "Comp Net (DS-A) ",
+            "subject": "Comp Net (DS-A) Cancelled",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V44",
             "row": 44,
@@ -84817,7 +84817,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Sec S/w Design (CY-B)",
+              "subject": "Sec S/w Design (CY-B) Cancelled",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L49",
               "row": 49,
@@ -85657,7 +85657,7 @@
             }
           },
           {
-            "subject": "Sec S/w Design (CY-B)",
+            "subject": "Sec S/w Design (CY-B) Cancelled",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L49",
             "row": 49,
@@ -173301,7 +173301,7 @@
           "row": 44,
           "column": 22,
           "column_letter": "V",
-          "value": "Comp Net (DS-A) ",
+          "value": "Comp Net (DS-A) Cancelled",
           "time_slot": "BS CY (2024)",
           "room": "D-412",
           "styles": {
@@ -177861,7 +177861,7 @@
           "row": 49,
           "column": 12,
           "column_letter": "L",
-          "value": "Sec S/w Design (CY-B)",
+          "value": "Sec S/w Design (CY-B) Cancelled",
           "time_slot": "BS DS (2024)",
           "room": "D-501",
           "styles": {
