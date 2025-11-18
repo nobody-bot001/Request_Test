@@ -11822,7 +11822,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": NaN,
+          "subject": "Info Assur (CY-C) ReSch",
           "location": "Cell B48",
           "row": 48,
           "column": 2
