@@ -80889,7 +80889,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Reserved for Intro to DS Lab (DS-A) ",
+              "subject": NaN,
               "time_slot": NaN,
               "cell_reference": "B47",
               "row": 47,
@@ -81819,7 +81819,7 @@
         "row": 47,
         "schedule": [
           {
-            "subject": "Reserved for Intro to DS Lab (DS-A) ",
+            "subject": NaN,
             "time_slot": NaN,
             "cell_reference": "B47",
             "row": 47,
@@ -175673,7 +175673,7 @@
           "row": 47,
           "column": 2,
           "column_letter": "B",
-          "value": "Reserved for Intro to DS Lab (DS-A) ",
+          "value": NaN,
           "time_slot": NaN,
           "room": "D-415",
           "styles": {

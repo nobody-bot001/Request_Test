@@ -11565,7 +11565,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Reserved for Intro to DS Lab (DS-A) ",
+          "subject": NaN,
           "location": "Cell B47",
           "row": 47,
           "column": 2
