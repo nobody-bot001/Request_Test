@@ -47142,7 +47142,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "Automata (CS-D) ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q28",
               "row": 28,
@@ -47998,7 +47998,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Automata (CS-D) ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q28",
             "row": 28,
@@ -157747,7 +157747,7 @@
           "row": 28,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "Automata (CS-D) ReSch",
           "time_slot": "BS AI (2024)",
           "room": "D-304",
           "styles": {
