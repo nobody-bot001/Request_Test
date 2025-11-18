@@ -2453,7 +2453,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng Lab (CY-C2) ReSch",
+          "subject": NaN,
           "location": "Cell V11",
           "row": 11,
           "column": 22
@@ -2710,7 +2710,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "PF (SE-B) ReSch",
+          "subject": NaN,
           "location": "Cell V12",
           "row": 12,
           "column": 22
@@ -2745,7 +2745,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "PF (SE-C) ReSch",
+          "subject": NaN,
           "location": "Cell AA12",
           "row": 12,
           "column": 27
@@ -2967,7 +2967,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng Lab (DS-B1) ReSch ",
+          "subject": NaN,
           "location": "Cell V13",
           "row": 13,
           "column": 22
@@ -3481,7 +3481,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func English (DS-A) ReSch 02:30-03:30 ",
+          "subject": NaN,
           "location": "Cell V15",
           "row": 15,
           "column": 22
@@ -4404,7 +4404,7 @@
         },
         {
           "time_slot": "BS CS (2024)",
-          "subject": "Func Eng Lab (AI-C1) ReSch",
+          "subject": NaN,
           "location": "Cell G19",
           "row": 19,
           "column": 7
@@ -5794,7 +5794,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "LA (CS-D) ReSch ",
+          "subject": NaN,
           "location": "Cell V24",
           "row": 24,
           "column": 22
@@ -6787,7 +6787,7 @@
         },
         {
           "time_slot": "BS AI (2024)",
-          "subject": "PF (SE-A) ReSch",
+          "subject": NaN,
           "location": "Cell Q28",
           "row": 28,
           "column": 17
@@ -8294,7 +8294,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Comp Net (CS-B) Resch",
+          "subject": NaN,
           "location": "Cell L34",
           "row": 34,
           "column": 12
@@ -11740,7 +11740,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": "Algo (CY, 22)  ReSch",
+          "subject": NaN,
           "location": "Cell AA47",
           "row": 47,
           "column": 27
@@ -12149,7 +12149,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Sec S/w Design (CY-B) Cancelled",
+          "subject": "Sec S/w Design (CY-B) ",
           "location": "Cell L49",
           "row": 49,
           "column": 12
@@ -12920,7 +12920,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Ideology of Pak (CY-A) 11:30-01:15 ReSch",
+          "subject": NaN,
           "location": "Cell L52",
           "row": 52,
           "column": 12
