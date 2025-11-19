@@ -21956,7 +21956,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "Ideology of Pak (CS-C) ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q14",
               "row": 14,
@@ -22812,7 +22812,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Ideology of Pak (CS-C) ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q14",
             "row": 14,
@@ -144251,7 +144251,7 @@
           "row": 14,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "Ideology of Pak (CS-C) ReSch",
           "time_slot": "BS AI (2024)",
           "room": "C-311",
           "styles": {
