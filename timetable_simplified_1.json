@@ -14906,7 +14906,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "PF Lab (CY-B) ",
+          "subject": "Intro to DS Lab (DS-A)",
           "location": "Cell B60",
           "row": 60,
           "column": 2
@@ -15163,7 +15163,7 @@
       "schedule": [
         {
           "time_slot": NaN,
-          "subject": "Intro to DS Lab (DS-A)",
+          "subject": "PF Lab (CY-B) ",
           "location": "Cell B61",
           "row": 61,
           "column": 2

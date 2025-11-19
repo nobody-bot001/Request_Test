@@ -104276,7 +104276,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "PF Lab (CY-B) ",
+              "subject": "Intro to DS Lab (DS-A)",
               "time_slot": NaN,
               "cell_reference": "B60",
               "row": 60,
@@ -105206,7 +105206,7 @@
         "row": 60,
         "schedule": [
           {
-            "subject": "PF Lab (CY-B) ",
+            "subject": "Intro to DS Lab (DS-A)",
             "time_slot": NaN,
             "cell_reference": "B60",
             "row": 60,
@@ -106075,7 +106075,7 @@
         "time_slots": {
           "NaN": [
             {
-              "subject": "Intro to DS Lab (DS-A)",
+              "subject": "PF Lab (CY-B) ",
               "time_slot": NaN,
               "cell_reference": "B61",
               "row": 61,
@@ -107005,7 +107005,7 @@
         "row": 61,
         "schedule": [
           {
-            "subject": "Intro to DS Lab (DS-A)",
+            "subject": "PF Lab (CY-B) ",
             "time_slot": NaN,
             "cell_reference": "B61",
             "row": 61,
@@ -188205,7 +188205,7 @@
           "row": 60,
           "column": 2,
           "column_letter": "B",
-          "value": "PF Lab (CY-B) ",
+          "value": "Intro to DS Lab (DS-A)",
           "time_slot": NaN,
           "room": "D-IT Lab 4",
           "styles": {
@@ -189169,7 +189169,7 @@
           "row": 61,
           "column": 2,
           "column_letter": "B",
-          "value": "Intro to DS Lab (DS-A)",
+          "value": "PF Lab (CY-B) ",
           "time_slot": NaN,
           "room": "C-Margala 1",
           "styles": {
