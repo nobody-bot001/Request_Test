@@ -4509,7 +4509,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
+          "subject": "Psychology (SE-C) 02:30-04:15",
           "location": "Cell V19",
           "row": 19,
           "column": 22
@@ -9941,7 +9941,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Prog for AI (AI-C) ReSch",
           "location": "Cell AA40",
           "row": 40,
           "column": 27

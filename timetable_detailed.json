@@ -31055,7 +31055,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
+              "subject": "Psychology (SE-C) 02:30-04:15",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V19",
               "row": 19,
@@ -31927,7 +31927,7 @@
             }
           },
           {
-            "subject": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
+            "subject": "Psychology (SE-C) 02:30-04:15",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V19",
             "row": 19,
@@ -68964,7 +68964,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Prog for AI (AI-C) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA40",
               "row": 40,
@@ -69826,7 +69826,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Prog for AI (AI-C) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA40",
             "row": 40,
@@ -149201,7 +149201,7 @@
           "row": 19,
           "column": 22,
           "column_letter": "V",
-          "value": "Psychology (SE-C) 02:30-04:15 Extended till 05:15",
+          "value": "Psychology (SE-C) 02:30-04:15",
           "time_slot": "BS CY (2024)",
           "room": "C-405",
           "styles": {
@@ -169575,7 +169575,7 @@
           "row": 40,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Prog for AI (AI-C) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "D-404",
           "styles": {
