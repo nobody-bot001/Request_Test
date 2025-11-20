@@ -16663,7 +16663,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func Eng Lab (CY-C2) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V11",
               "row": 11,
@@ -17535,7 +17535,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func Eng Lab (CY-C2) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V11",
             "row": 11,
@@ -141489,7 +141489,7 @@
           "row": 11,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Func Eng Lab (CY-C2) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "C-308",
           "styles": {
