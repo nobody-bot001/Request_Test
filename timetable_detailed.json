@@ -11266,7 +11266,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Func Eng (CS-D) 02:30-04:15 ",
+              "subject": "Func Eng (CS-D) 02:30-04:15 Extended till 05:15",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V8",
               "row": 8,
@@ -12138,7 +12138,7 @@
             }
           },
           {
-            "subject": "Func Eng (CS-D) 02:30-04:15 ",
+            "subject": "Func Eng (CS-D) 02:30-04:15 Extended till 05:15",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V8",
             "row": 8,
@@ -14656,7 +14656,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": "Func Eng (CS-F) 11:30-01:15",
+              "subject": "Func Eng (CS-F) 11:30-01:15 Extended till 02:20",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L10",
               "row": 10,
@@ -15496,7 +15496,7 @@
             }
           },
           {
-            "subject": "Func Eng (CS-F) 11:30-01:15",
+            "subject": "Func Eng (CS-F) 11:30-01:15 Extended till 02:20",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L10",
             "row": 10,
@@ -138597,7 +138597,7 @@
           "row": 8,
           "column": 22,
           "column_letter": "V",
-          "value": "Func Eng (CS-D) 02:30-04:15 ",
+          "value": "Func Eng (CS-D) 02:30-04:15 Extended till 05:15",
           "time_slot": "BS CY (2024)",
           "room": "C-304",
           "styles": {
@@ -140265,7 +140265,7 @@
           "row": 10,
           "column": 12,
           "column_letter": "L",
-          "value": "Func Eng (CS-F) 11:30-01:15",
+          "value": "Func Eng (CS-F) 11:30-01:15 Extended till 02:20",
           "time_slot": "BS DS (2024)",
           "room": "C-307",
           "styles": {

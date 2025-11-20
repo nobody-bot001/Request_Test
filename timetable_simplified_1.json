@@ -1682,7 +1682,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": "Func Eng (CS-D) 02:30-04:15 ",
+          "subject": "Func Eng (CS-D) 02:30-04:15 Extended till 05:15",
           "location": "Cell V8",
           "row": 8,
           "column": 22
@@ -2126,7 +2126,7 @@
         },
         {
           "time_slot": "BS DS (2024)",
-          "subject": "Func Eng (CS-F) 11:30-01:15",
+          "subject": "Func Eng (CS-F) 11:30-01:15 Extended till 02:20",
           "location": "Cell L10",
           "row": 10,
           "column": 12
