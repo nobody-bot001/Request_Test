@@ -7686,7 +7686,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": "Tutorial (25)",
+              "subject": "Retake Exam Sessional-II",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V6",
               "row": 6,
@@ -7790,7 +7790,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Retake Exam Sessional-II",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA6",
               "row": 6,
@@ -8532,7 +8532,7 @@
             }
           },
           {
-            "subject": "Tutorial (25)",
+            "subject": "Retake Exam Sessional-II",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V6",
             "row": 6,
@@ -8652,7 +8652,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Retake Exam Sessional-II",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA6",
             "row": 6,
@@ -22062,7 +22062,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Tutorial (25)",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V14",
               "row": 14,
@@ -22908,7 +22908,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Tutorial (25)",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V14",
             "row": 14,
@@ -136525,7 +136525,7 @@
           "row": 6,
           "column": 22,
           "column_letter": "V",
-          "value": "Tutorial (25)",
+          "value": "Retake Exam Sessional-II",
           "time_slot": "BS CY (2024)",
           "room": "C-302",
           "styles": {
@@ -136655,7 +136655,7 @@
           "row": 6,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Retake Exam Sessional-II",
           "time_slot": "BS SE (2024)",
           "room": "C-302",
           "styles": {
@@ -144237,7 +144237,7 @@
           "row": 14,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Tutorial (25)",
           "time_slot": "BS CY (2024)",
           "room": "C-311",
           "styles": {
