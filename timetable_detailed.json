@@ -90318,7 +90318,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "Psychology (AI-A) 11:30-01:15",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q52",
               "row": 52,
@@ -91174,7 +91174,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Psychology (AI-A) 11:30-01:15",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q52",
             "row": 52,
@@ -180883,7 +180883,7 @@
           "row": 52,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "Psychology (AI-A) 11:30-01:15",
           "time_slot": "BS AI (2024)",
           "room": "D-504",
           "styles": {
