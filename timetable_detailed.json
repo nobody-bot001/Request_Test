@@ -85025,7 +85025,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved LADS Nexus",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V49",
               "row": 49,
@@ -85155,7 +85155,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved LADS Nexus",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA49",
               "row": 49,
@@ -85897,7 +85897,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved LADS Nexus",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V49",
             "row": 49,
@@ -86017,7 +86017,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved LADS Nexus",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA49",
             "row": 49,
@@ -86824,7 +86824,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved LADS Nexus",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V50",
               "row": 50,
@@ -86954,7 +86954,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Reserved LADS Nexus",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA50",
               "row": 50,
@@ -87696,7 +87696,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved LADS Nexus",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V50",
             "row": 50,
@@ -87816,7 +87816,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Reserved LADS Nexus",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA50",
             "row": 50,
@@ -178121,7 +178121,7 @@
           "row": 49,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Reserved LADS Nexus",
           "time_slot": "BS CY (2024)",
           "room": "D-501",
           "styles": {
@@ -178251,7 +178251,7 @@
           "row": 49,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Reserved LADS Nexus",
           "time_slot": "BS SE (2024)",
           "room": "D-501",
           "styles": {
@@ -179085,7 +179085,7 @@
           "row": 50,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Reserved LADS Nexus",
           "time_slot": "BS CY (2024)",
           "room": "D-502",
           "styles": {
@@ -179215,7 +179215,7 @@
           "row": 50,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Reserved LADS Nexus",
           "time_slot": "BS SE (2024)",
           "room": "D-502",
           "styles": {

@@ -12219,7 +12219,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Reserved LADS Nexus",
           "location": "Cell V49",
           "row": 49,
           "column": 22
@@ -12254,7 +12254,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Reserved LADS Nexus",
           "location": "Cell AA49",
           "row": 49,
           "column": 27
@@ -12476,7 +12476,7 @@
         },
         {
           "time_slot": "BS CY (2024)",
-          "subject": NaN,
+          "subject": "Reserved LADS Nexus",
           "location": "Cell V50",
           "row": 50,
           "column": 22
@@ -12511,7 +12511,7 @@
         },
         {
           "time_slot": "BS SE (2024)",
-          "subject": NaN,
+          "subject": "Reserved LADS Nexus",
           "location": "Cell AA50",
           "row": 50,
           "column": 27
