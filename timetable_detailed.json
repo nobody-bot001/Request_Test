@@ -18462,7 +18462,7 @@
           ],
           "BS CY (2024)": [
             {
-              "subject": NaN,
+              "subject": "Func Eng Lab (CY-C1) ReSch",
               "time_slot": "BS CY (2024)",
               "cell_reference": "V12",
               "row": 12,
@@ -19334,7 +19334,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Func Eng Lab (CY-C1) ReSch",
             "time_slot": "BS CY (2024)",
             "cell_reference": "V12",
             "row": 12,
@@ -86720,7 +86720,7 @@
           ],
           "BS AI (2024)": [
             {
-              "subject": NaN,
+              "subject": "LA (CS-F)  ReSch",
               "time_slot": "BS AI (2024)",
               "cell_reference": "Q50",
               "row": 50,
@@ -87576,7 +87576,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "LA (CS-F)  ReSch",
             "time_slot": "BS AI (2024)",
             "cell_reference": "Q50",
             "row": 50,
@@ -142453,7 +142453,7 @@
           "row": 12,
           "column": 22,
           "column_letter": "V",
-          "value": NaN,
+          "value": "Func Eng Lab (CY-C1) ReSch",
           "time_slot": "BS CY (2024)",
           "room": "C-309",
           "styles": {
@@ -178955,7 +178955,7 @@
           "row": 50,
           "column": 17,
           "column_letter": "Q",
-          "value": NaN,
+          "value": "LA (CS-F)  ReSch",
           "time_slot": "BS AI (2024)",
           "room": "D-502",
           "styles": {
