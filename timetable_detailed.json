@@ -43778,7 +43778,7 @@
           ],
           "BS SE (2024)": [
             {
-              "subject": NaN,
+              "subject": "Data St (CS-E) ReSch",
               "time_slot": "BS SE (2024)",
               "cell_reference": "AA26",
               "row": 26,
@@ -44640,7 +44640,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "Data St (CS-E) ReSch",
             "time_slot": "BS SE (2024)",
             "cell_reference": "AA26",
             "row": 26,
@@ -156079,7 +156079,7 @@
           "row": 26,
           "column": 27,
           "column_letter": "AA",
-          "value": NaN,
+          "value": "Data St (CS-E) ReSch",
           "time_slot": "BS SE (2024)",
           "room": "D-302",
           "styles": {
