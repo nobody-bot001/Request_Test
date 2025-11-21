@@ -104516,7 +104516,7 @@
           ],
           "BS DS (2024)": [
             {
-              "subject": NaN,
+              "subject": "PF Lab (CY-A) ReSch",
               "time_slot": "BS DS (2024)",
               "cell_reference": "L60",
               "row": 60,
@@ -105330,7 +105330,7 @@
             }
           },
           {
-            "subject": NaN,
+            "subject": "PF Lab (CY-A) ReSch",
             "time_slot": "BS DS (2024)",
             "cell_reference": "L60",
             "row": 60,
@@ -188321,7 +188321,7 @@
           "row": 60,
           "column": 12,
           "column_letter": "L",
-          "value": NaN,
+          "value": "PF Lab (CY-A) ReSch",
           "time_slot": "BS DS (2024)",
           "room": "D-IT Lab 4",
           "styles": {
